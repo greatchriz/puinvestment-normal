@@ -360,25 +360,6 @@
             >
           </div>
 
-          
-
-{*      
-
-
-            <div class="mb-4">
-                <label
-                    class="font-semibold"
-                    for="password2"
-                >Retype Password:</label>
-                <input
-                    id="password2"
-                    name=password2
-                    type="password"
-                    class="form-input mt-3"
-                    placeholder="Retype Password"
-                >
-            </div> *}
-
             <div class="mb-4">
                 <label
                     class="font-semibold"
@@ -407,6 +388,33 @@
                 >
             </div>
 
+            <div class="mb-4">
+              <label
+                class="font-semibold"
+                for="sq"
+              >Secret question:</label>
+              <input
+                id="sq"
+                name=sq 
+                value='{$frm.sq|escape:"quotes"}'
+                type="text"
+                class="form-input mt-3"
+              >
+            </div>
+
+            <div class="mb-4">
+              <label
+                class="font-semibold"
+                for="sq"
+              >Secret answer:</label>
+              <input
+                id="sq"
+                name=sq 
+                value='{$frm.sq|escape:"quotes"}'
+                type="text"
+                class="form-input mt-3"
+              >
+            </div>
 
             <div class="mb-4">
                 <div class="flex items-center w-full mb-0">
