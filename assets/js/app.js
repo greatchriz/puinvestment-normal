@@ -29,14 +29,7 @@
 
 window.addEventListener('load', fn, false)
 
-function togglePassword() {
-    var x = document.getElementById("LoginPassword");
-    if (x.type === "password") {
-      x.type = "text";
-    } else {
-      x.type = "password";
-    }
-  }
+
 
 //  window.onload = function loader() {
 function fn() {
