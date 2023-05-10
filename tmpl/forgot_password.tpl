@@ -224,7 +224,7 @@
                             <div class="col-lg-6">
                                 <div class="nk-block-content text-center
                                     text-lg-left">
-                                    <p class="text-soft">DexFintech &copy; 2023.
+                                    <p class="text-soft">puinvestment.org &copy; 2023.
                                         All Rights Reserved.</p>
                                 </div>
                             </div>

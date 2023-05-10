@@ -51,7 +51,7 @@
             content="telephone=no"
         >
 
-        <title>dexfintech | Dashboard</title>
+        <title>Puinvestment | Dashboard</title>
         <!-- Favicon icon -->
 
         <link
@@ -392,7 +392,7 @@
 
 
                     <div class="copyright">
-                        <p><strong>dexfintech.com</strong> © 2023 All Rights Reserved</p>
+                        <p><strong>Puinvestment.com</strong> © 2023 All Rights Reserved</p>
 
                     </div>
                 </div>
