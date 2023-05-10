@@ -231,6 +231,7 @@ document.getElementById('tfa_time').value = (new Date()).getTime();
                     <span class="mb-0"><b style="color:red">{$currency_sign}<b>{$ab_formated.withdraw_pending|amount_format}{/if}</b></span>
                     {else}
                     <span class="mb-0"><b style="color:green"><b>You have No Pending Withdrawal</b></span>
+                    {/if}
                 </li>
 
             </ul>
