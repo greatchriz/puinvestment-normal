@@ -1,0 +1,32 @@
+[08-May-2023 22:05:28 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'sections/home/key-feature.tpl' in 'home.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[08-May-2023 22:05:33 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'sections/home/key-feature.tpl' in 'home.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[08-May-2023 22:05:38 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'sections/home/key-feature.tpl' in 'home.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[08-May-2023 22:05:42 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'sections/home/key-feature.tpl' in 'home.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[08-May-2023 22:05:46 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'sections/home/key-feature.tpl' in 'home.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:40:28 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:40:34 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:41:28 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:42:11 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:42:35 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:46:15 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'tmpl/sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:51:35 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'tmpl/sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:51:39 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'tmpl/sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:52:44 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'tmpl/sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:52:50 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'tmpl/sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
+[09-May-2023 00:53:01 America/New_York] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'tmpl/sections/about/testimonials' in 'custom/about.tpl' <-- 
+  thrown in /home/reconsxo/puinvestment.org/inc/libs/smarty3/sysplugins/smarty_internal_template.php on line 219
