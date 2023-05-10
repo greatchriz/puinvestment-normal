@@ -184,7 +184,7 @@
         </span>
         <div class="media-body">
           <p class="mb-1">Referral Link:</p>
-          <a href="{$baseurl}/?ref={$userinfo.username}" target="_blank">{$baseurl}/?ref={$userinfo.username}</a>
+          <a href="{$settings.site_url}/?ref={$userinfo.username}" target="_blank">{$settings.site_url}/?ref={$userinfo.username}</a>
           <!--<span class="badge badge-primary">+3.5%</span>-->
         </div>
       </div>
