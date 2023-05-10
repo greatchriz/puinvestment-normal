@@ -108,7 +108,7 @@
                             src="assets/images/logo.svg"
                             class="l-dark"
                             height="80px"
-                            width="130px"
+                            width="100px"
                             alt=""
                         >
                         <img
