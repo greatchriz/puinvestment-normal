@@ -228,7 +228,7 @@ document.getElementById('tfa_time').value = (new Date()).getTime();
                 <li class="list-group-item d-flex px-0 justify-content-between">
                     <strong>Pending Withdraw:</strong>
                     {if $ab_formated.withdraw_pending != 0}
-                    <span class="mb-0"><b style="color:red">{$currency_sign}<b>{$ab_formated.withdraw_pending|amount_format}{/if}</b></span>
+                    <span class="mb-0"><b style="color:red">{$currency_sign}<b>{$ab_formated.withdraw_pending|amount_format}</b></span>
                     {else}
                     <span class="mb-0"><b style="color:green"><b>You have No Pending Withdrawal</b></span>
                     {/if}
