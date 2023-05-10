@@ -202,8 +202,13 @@
             </div>
         </div>
     </div>
+    <div class="col-12 mb-3">
+      <div class="card border-0 pb-0 d-flex justify-content-end">
+        <input type=submit value="Spend" class="btn btn-primary">
+      </div>
+    </div>
   
-    <input type=submit value="Spend" class="btn btn-primary">
+    
     </div>
   </form>
    
