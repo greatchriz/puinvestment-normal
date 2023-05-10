@@ -156,15 +156,18 @@
         </div>
         <!-- LTR & RTL Mode Code -->
 
-        function togglePassword() {
-        var x = document.getElementById("LoginPassword");
-        if (x.type === "password") {
-        x.type = "text";
-        } else {
-        x.type = "password";
-        }
-        }
-
+        {literal}
+            <script type="text/javascript">
+                function togglePassword() {
+                    var x = document.getElementById("LoginPassword");
+                    if (x.type === "password") {
+                        x.type = "text";
+                        } else {
+                        x.type = "password";
+                    }
+                }
+            </script>
+        {/literal}
         <!-- JAVASCRIPTS -->
         <script src="assets/libs/feather-icons/feather.min.js"></script>
         <script src="assets/js/plugins.init.js"></script>
