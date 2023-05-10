@@ -11,7 +11,7 @@
 
 		<div class="footer">
 			<div class="copyright">
-				<p>Copyright © polticvenrures.com 2022</p>
+				<p>Copyright © puinvestment.org 2023</p>
 			</div>
 		</div>
 
