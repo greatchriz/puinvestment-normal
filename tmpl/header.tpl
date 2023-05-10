@@ -361,7 +361,7 @@
                                 aria-expanded="false"
                             >
                                 <i class="flaticon-giftbox"></i>
-                                <span class="nav-text">Your Referrals</span>
+                                <span class="nav-text">My Referrals</span>
                             </a>
                         </li>
 

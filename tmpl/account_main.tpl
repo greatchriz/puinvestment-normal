@@ -174,7 +174,23 @@
   </div>
 </div>
 
-
+<div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
+  <div class="widget-stat card">
+    <div class="card-body p-4">
+      <div class="media ai-icon">
+        <span class="me-3 bgl-primary text-primary">
+          <!-- <i class="ti-user"></i> -->
+          <i class="fi fi-rr-credit-card"></i>
+        </span>
+        <div class="media-body">
+          <p class="mb-1">Referral Link:</p>
+          <a href="{$baseurl}/?ref={$userinfo.username}" target="_blank">{$baseurl}/?ref={$userinfo.username}</a>
+          <!--<span class="badge badge-primary">+3.5%</span>-->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
   <div class="widget-stat card">
     <div class="card-body p-4">
@@ -192,7 +208,6 @@
     </div>
   </div>
 </div>
-
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
   <div class="widget-stat card">
     <div class="card-body p-4">
@@ -210,8 +225,6 @@
     </div>
   </div>
 </div>
-
-
 {if $last_deposit}
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
   <div class="widget-stat card">
