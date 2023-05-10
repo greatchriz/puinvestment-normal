@@ -206,7 +206,7 @@
                                     </a>
                                     <div class="dropdown-menu dropdown-menu-end">
                                         <a
-                                            href="?a=account"
+                                        href="{"?a=edit_account"|encurl}"
                                             class="dropdown-item ai-icon"
                                         >
                                             <svg

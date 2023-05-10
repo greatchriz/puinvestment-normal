@@ -116,7 +116,6 @@
                             class="l-light"
                             height="80px"
                             width="160px"
-                            
                             alt=""
                         >
                     </span>
@@ -146,69 +145,81 @@
                         <!-- End mobile menu toggle-->
                     </div>
                 </div>
-
                 <!--Login button Start-->
-                {* <ul class="buy-button list-none mb-0">
-                        <li class="inline mb-0">
-                            <a href="#">
-                                <span class="login-btn-primary"><span class="btn btn-icon rounded-full bg-indigo-600/5 hover:bg-indigo-600 border-indigo-600/10 hover:border-indigo-600 text-indigo-600 hover:text-white"><i data-feather="settings" class="h-4 w-4"></i></span></span>
-                                <span class="login-btn-light"><span class="btn btn-icon rounded-full bg-gray-50 hover:bg-gray-200 dark:bg-slate-900 dark:hover:bg-gray-700 hover:border-gray-100 dark:border-gray-700 dark:hover:border-gray-700"><i data-feather="settings" class="h-4 w-4"></i></span></span>
-                            </a>
-                        </li>
-
-                        <li class="inline ps-1 mb-0">
-                            <a href="https://1.envato.market/techwind" target="_blank">
-                                <div class="login-btn-primary"><span class="btn btn-icon rounded-full bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white"><i data-feather="shopping-cart" class="h-4 w-4"></i></span></div>
-                                <div class="login-btn-light"><span class="btn btn-icon rounded-full bg-gray-50 hover:bg-gray-200 dark:bg-slate-900 dark:hover:bg-gray-700 hover:border-gray-100 dark:border-gray-700 dark:hover:border-gray-700"><i data-feather="shopping-cart" class="h-4 w-4"></i></span></div>
-                            </a>
-                        </li>
-                    </ul> *}
+                <ul class="buy-button list-none mb-0">
+                    <li class="inline mb-0">
+                        <div class="border mt-1 mb-1 p-2 rounded-lg shadow-lg">
+                            <div id="google_translate_element"></div>
+                        </div>
+                    </li>
+                </ul>
                 <!--Login button End-->
 
                 <div id="navigation">
                     <!-- Navigation Menu-->
                     <ul class="navigation-menu nav-light">
                         <li>
-                            <a href="{"?a=home"|encurl}" class="sub-menu-item">
+                            <a
+                                href="{"?a=home"|encurl}"
+                                class="sub-menu-item"
+                            >
                                 Home
                             </a>
                         </li>
 
                         <li>
 
-                            <a href="{"?a=invest_page"|encurl}" class="sub-menu-item">
+                            <a
+                                href="{"?a=invest_page"|encurl}"
+                                class="sub-menu-item"
+                            >
                                 About Us
                             </a>
                         </li>
 
                         <li>
-                            <a href="{"?a=faq"|encurl}" class="sub-menu-item">
+                            <a
+                                href="{"?a=faq"|encurl}"
+                                class="sub-menu-item"
+                            >
                                 F.A.Q.
                             </a>
                         </li>
 
                         <li>
-                            <a href="{"?a=support"|encurl}" class="sub-menu-item">
+                            <a
+                                href="{"?a=support"|encurl}"
+                                class="sub-menu-item"
+                            >
                                 Contact Us
                             </a>
                         </li>
 
                         {if $userinfo.logged != 1}
-    
+
                             <li>
-                                <a href="{"?a=signup"|encurl}" class="sub-menu-item">
+                                <a
+                                    href="{"?a=signup"|encurl}"
+                                    class="sub-menu-item"
+                                >
                                     Register
                                 </a>
                             </li>
 
                             <li>
-                                <a href="{"?a=login"|encurl}" class="sub-menu-item">
+                                <a
+                                    href="{"?a=login"|encurl}"
+                                    class="sub-menu-item"
+                                >
                                     Login
                                 </a>
                             </li>
                         {else}
                             <li>
-                                <a href="{"?a=account"|encurl}" class="sub-menu-item">
+                                <a
+                                    href="{"?a=account"|encurl}"
+                                    class="sub-menu-item"
+                                >
                                     Dashboard
                                 </a>
                             </li>
@@ -546,6 +557,10 @@
         </div>
         <!-- LTR & RTL Mode Code -->
 
+        <script
+            src="//code.tidio.co/0w3whf4hek0xafq6ttaucscl7dzdfzcv.js"
+            async
+        ></script>
         <!-- JAVASCRIPTS -->
         <script src="assets/libs/tobii/js/tobii.min.js"></script>
         <script src="assets/libs/tiny-slider/min/tiny-slider.js"></script>
@@ -554,6 +569,17 @@
         <script src="assets/js/plugins.init.js"></script>
         <script src="assets/js/app.js"></script>
         <!-- JAVASCRIPTS -->
+        {literal}
+            <script type="text/javascript">
+                function googleTranslateElementInit() {
+                    new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+                }
+            </script>
+        {/literal}
+        <script
+            type="text/javascript"
+            src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+        ></script>
     </body>
 
     <!-- Mirrored from shreethemes.in/techwind/layouts/index-corporate.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 May 2023 16:47:59 GMT -->
