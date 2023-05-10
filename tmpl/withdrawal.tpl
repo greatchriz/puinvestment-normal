@@ -252,7 +252,7 @@ document.getElementById('tfa_time').value = (new Date()).getTime();
                         {/if}
                     {/if}
                     
-                    <h2 class="card-title"><img src="images/{$p.id}.gif" width=44 height=17 align=absmiddle> {$p.name|escape:html}</h2>
+                    <h2 class="card-title"><img src="images/{$p.id}.gif" width=50 height=50 align=absmiddle> {$p.name|escape:html}</h2>
                 </div>
                 
                 <div class="card-body pb-0">
