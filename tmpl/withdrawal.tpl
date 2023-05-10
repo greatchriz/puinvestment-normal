@@ -215,28 +215,32 @@ document.getElementById('tfa_time').value = (new Date()).getTime();
 </table>
 *}
 
-<div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
+<div class="col-12">
     <div class="card">
         <div class="card-body">
-            <table cellspacing=0 cellpadding=2 border=0>
-        <tr>
-         <td>Account Balance:</td>
-         <td>{$currency_sign}<b>{$ab_formated.total}</b></td>
-        </tr>
-        <tr>
-         <td>Pending Withdrawals: </td>
-         <td>{$currency_sign}<b>{if $ab_formated.withdraw_pending != 0}{$ab_formated.withdraw_pending|amount_format}{/if}</b></td>
-        </tr>
-        </table>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item d-flex px-0 justify-content-between">
+                    <strong>Account Balance:</strong>
+                    <span class="mb-0"><b style="color:green">{$currency_sign}<b>{$ab_formated.total}</b></b></span>
+                </li>
+
+
+                <li class="list-group-item d-flex px-0 justify-content-between">
+                    <strong>Pending Withdraw:</strong>
+                    <span class="mb-0"><b style="color:red">{$currency_sign}<b>{if $ab_formated.withdraw_pending != 0}{$ab_formated.withdraw_pending|amount_format}{/if}</b></b></span>
+                </li>
+
+            </ul>
+
         </div>
     </div>
 </div>
 
-
-
-<div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
+<div class="row">
     
-        {foreach from=$ps item=p}
+    {foreach from=$ps item=p}
+    <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
+    
             <div class="card">
                 <div class="card-header border-0 pb-0">
                     
@@ -281,10 +285,13 @@ document.getElementById('tfa_time').value = (new Date()).getTime();
                     </ul>
                 </div>
             </div>
-        {/foreach}
+   
         
     
 </div>
+{/foreach}
+</div>
+
 
 {if $have_available}
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
