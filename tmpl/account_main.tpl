@@ -201,7 +201,7 @@
         </span>
         <div class="media-body">
           <p class="mb-1">Pending Withdrawal:</p>
-          <h4 class="mb-0">{$currency_sign}<b>{$ab_formated.withdraw_pending}</h4>
+          <h4 class="mb-0">{$currency_sign}{$ab_formated.withdraw_pending}</h4>
           <!--<span class="badge badge-primary">+3.5%</span>-->
         </div>
       </div>
@@ -218,7 +218,7 @@
         </span>
         <div class="media-body">
           <p class="mb-1">Active Deposit:</p>
-          <h4 class="mb-0">{$currency_sign}<b>{$ab_formated.active_deposit}</h4>
+          <h4 class="mb-0">{$currency_sign}{$ab_formated.active_deposit}</h4>
           <!--<span class="badge badge-primary">+3.5%</span>-->
         </div>
       </div>
@@ -297,7 +297,7 @@
           </span>
           <div class="media-body">
             <p class="mb-1">Withdrew Total:</p>
-            <h4 class="mb-0">{$currency_sign}<b>{$ab_formated.withdrawal}</h4>
+            <h4 class="mb-0">{$currency_sign}{$ab_formated.withdrawal}</h4>
             <!--<span class="badge badge-primary">+3.5%</span>-->
           </div>
         </div>
@@ -309,7 +309,7 @@
 {section name=p loop=$ps}
   {if $ps[p].pending_col > 0}
     {$ps[p].pending_col} {$ps[p].name} deposit{if $ps[p].pending_col > 1}s{/if} of
-    {$currency_sign}{$ps[p].pending_amount} total pending<br>{/if}
+    {$currency_sign}{$ps[p].pending_amount} total pending{/if}
 {/section}
 
 
