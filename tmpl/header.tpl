@@ -392,6 +392,10 @@
 
                     </ul>
 
+                    <div class="card">
+                        <div id="google_translate_element"></div>
+                    </div>
+
 
 
 
