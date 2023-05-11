@@ -1,18 +1,17 @@
 {include file="header.tpl"}
 
 
-
+{if $upline.email != ""}
 <div class="col-12">
     <div class="card">
         <div class="card-body">
-            {if $upline.email != ""}
-                Your upline is <a href=mailto:{$upline.email}>{$upline.name}</a>
-            {/if}
+
+            Your upline is <a href=mailto:{$upline.email}>{$upline.name}</a>
+
         </div>
     </div>
 </div>
-
-
+{/if}
 
 <div class="col-12">
     <div class="card">
