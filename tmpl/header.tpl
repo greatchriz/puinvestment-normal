@@ -54,11 +54,12 @@
         <title>Puinvestment | Dashboard</title>
         <!-- Favicon icon -->
 
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="static/images/favicon.png"
+        <!-- favicon -->
+            <link
+            rel="shortcut icon"
+            href="assets/images/favicon.ico"
+        />
+        
         >
 
         <link
