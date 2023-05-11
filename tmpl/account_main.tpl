@@ -89,26 +89,7 @@
       <div class="media ai-icon">
         <span class="me-3 bgl-primary text-primary">
           <!-- <i class="ti-user"></i> -->
-          <svg
-            id="icon-customers"
-            xmlns="http://www.w3.org/2000/svg"
-            width="30"
-            height="30"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            class="feather feather-user"
-          >
-            <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
-            <circle
-              cx="12"
-              cy="7"
-              r="4"
-            ></circle>
-          </svg>
+          <svg width="50px" height="50px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title></title> <g id="Complete"> <g id="user"> <g> <path d="M20,21V19a4,4,0,0,0-4-4H8a4,4,0,0,0-4,4v2" fill="none" stroke="#6418C3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path> <circle cx="12" cy="7" fill="none" r="4" stroke="#6418C3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle> </g> </g> </g> </g></svg>
         </span>
         <div class="media-body">
           <p class="mb-1">User:</p>
@@ -126,7 +107,7 @@
 
         <span class="me-3 bgl-primary text-primary">
           <!-- <i class="ti-user"></i> -->
-          <i class="fi fi-rr-wallet"></i>
+          <svg fill="#6418C3" width="50px" height="50px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g data-name="14. Briefcase" id="_14._Briefcase"> <path d="M29,4H22V3a3,3,0,0,0-3-3H13a3,3,0,0,0-3,3V4H3A3,3,0,0,0,0,7v8a1,1,0,0,0,.74,1L1,16v9a3,3,0,0,0,3,3H8a10,10,0,0,0,16,0h4a3,3,0,0,0,3-3V16l.26-.06A1,1,0,0,0,32,15V7A3,3,0,0,0,29,4ZM12,3a1,1,0,0,1,1-1h6a1,1,0,0,1,1,1V4H12ZM2,7A1,1,0,0,1,3,6H29a1,1,0,0,1,1,1v7.23l-6.12,1.63a10,10,0,0,0-15.76,0L2,14.23ZM4,26a1,1,0,0,1-1-1V16.57l4,1.06A9.91,9.91,0,0,0,6.84,26Zm12,4a8,8,0,1,1,8-8A8,8,0,0,1,16,30Zm13-5a1,1,0,0,1-1,1H25.16A9.91,9.91,0,0,0,25,17.63l4-1.06Z"></path> <path d="M16,19h2a1,1,0,0,0,0-2H17a1,1,0,0,0-2,0v.18A3,3,0,0,0,16,23a1,1,0,0,1,0,2H14a1,1,0,0,0,0,2h1a1,1,0,0,0,2,0v-.18A3,3,0,0,0,16,21a1,1,0,0,1,0-2Z"></path> </g> </g></svg>
 
         </span>
         <div class="media-body">
@@ -144,8 +125,7 @@
     <div class="card-body p-4">
       <div class="media ai-icon">
         <span class="me-3 bgl-primary text-primary">
-          <!-- <i class="ti-user"></i> -->
-          <i class="fi fi-rr-sack dollar"></i>
+          <svg fill="#6418C3" width="50px" height="50px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" stroke="#6418C3"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g data-name="1. Money" id="_1._Money"> <path d="M30,9.18V8a3,3,0,0,0-3-3H22.16a18.57,18.57,0,0,1-5.85-1A20.43,20.43,0,0,0,9.84,3H5A3,3,0,0,0,2,6V7.18A3,3,0,0,0,0,10V24a3,3,0,0,0,3,3H9.84a18.41,18.41,0,0,1,5.84.95A20.45,20.45,0,0,0,22.16,29H29a3,3,0,0,0,3-3V12A3,3,0,0,0,30,9.18ZM5,5H9.84a18.57,18.57,0,0,1,5.85,1,20.43,20.43,0,0,0,6.47,1H27a1,1,0,0,1,1,1V9H22.16a18.41,18.41,0,0,1-5.84-.95A20.45,20.45,0,0,0,9.84,7H4V6A1,1,0,0,1,5,5ZM30,26a1,1,0,0,1-1,1H22.16a18.41,18.41,0,0,1-5.84-.95A20.45,20.45,0,0,0,9.84,25H3a1,1,0,0,1-1-1V10A1,1,0,0,1,3,9H9.84a18.41,18.41,0,0,1,5.84.95A20.45,20.45,0,0,0,22.16,11H29a1,1,0,0,1,1,1Z"></path> <path d="M16,15h2a1,1,0,0,0,0-2H17a1,1,0,0,0-2,0v.18A3,3,0,0,0,16,19a1,1,0,0,1,0,2H14a1,1,0,0,0,0,2h1a1,1,0,0,0,2,0v-.18A3,3,0,0,0,16,17a1,1,0,0,1,0-2Z"></path> <path d="M8,16H6a1,1,0,0,0,0,2H8a1,1,0,0,0,0-2Z"></path> <path d="M26,18H24a1,1,0,0,0,0,2h2a1,1,0,0,0,0-2Z"></path> </g> </g></svg>
         </span>
         <div class="media-body">
           <p class="mb-1">Earned Total:</p>
