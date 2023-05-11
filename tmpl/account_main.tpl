@@ -197,7 +197,7 @@
       <div class="media ai-icon">
         <span class="me-3 bgl-primary text-primary">
           <!-- <i class="ti-user"></i> -->
-          <i class="fi fi-rr-credit-card"></i>
+          <i class="fa-thin fa-money-from-bracket"></i>
         </span>
         <div class="media-body">
           <p class="mb-1">Pending Withdrawal:</p>

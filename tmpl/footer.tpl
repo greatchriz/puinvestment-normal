@@ -19,6 +19,8 @@
 	</div>
 
 
+	<script src="https://use.fontawesome.com/99dda5ee24.js"></script>
+
 
 	<script src="static/vendor/global/global.min.js"></script>
 
