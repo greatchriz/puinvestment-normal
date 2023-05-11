@@ -2,7 +2,7 @@
 
 <h3>Your Referrals:</h3>
 {if $upline.email != ""}
-Your upline is <a href=mailto:{$upline.email}>{$upline.name}</a><br><br>
+Your upline is <a href=mailto:{$upline.email}>{$upline.name}</a>
 {/if}
 <div class="col-xl-4 col-lg-12 col-sm-12 ">
     <div class="card">
