@@ -81,7 +81,7 @@
                             
                             <li class="list-group-item d-flex px-0 justify-content-between">
                                 <strong>Referral Bonus</strong>
-                                <span class="mb-0">5% on First Deposit</span>
+                                <span class="mb-0">10% on First Deposit</span>
                             </li>
                          
                         </ul>
