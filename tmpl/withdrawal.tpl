@@ -298,26 +298,39 @@ document.getElementById('tfa_time').value = (new Date()).getTime();
 </div>
 
 
+
+
 {if $have_available}
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
+
     <div class="card">
-<div class="card-body">
-<table cellspacing=0 cellpadding=2 border=0 width=200>
-<tr>
- <td colspan=2>&nbsp;</td>
-</tr>
-<tr>
- <td>Withdrawal ({$currency_sign}):</td>
- <td><input type=text name=amount value="{$frm.amount|amount_format|default:"10.00"}" class=inpts size=15></td>
-</tr><tr>
- <td colspan=2><textarea name=comment class=inpts cols=25 rows=4>Your comment</textarea>
-</tr>
-<tr>
- <td>&nbsp;</td>
- <td><input type=submit value="Request" class=sbmt></td>
-</tr></table>
-</div>
-</div>
+
+        <div class="card-body">
+            <div class="basic-form">
+                <div class="row">
+                    <div class="mb-3 col-md-6">
+                        <label class="form-label">Withdrawal ({$currency_sign})</label>
+                        <input 
+                            type="text" 
+                            class="form-control" 
+                            placeholder="{$frm.amount|amount_format|default:"10.00"}"
+                            name=amount
+                        >
+                    </div>
+                    <div class="mb-3 col-md-6">
+                        <label class="form-label">Comment</label>
+                        <textarea name=comment class="form-control" rows="4" id="comment"></textarea>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <input
+        type=submit
+        value="Request"
+        class="btn btn-primary"
+    />
 </div>
 
 {else}
