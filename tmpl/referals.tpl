@@ -1,13 +1,25 @@
 {include file="header.tpl"}
 
-<h3>Your Referrals:</h3>
+
+
+        <div class="row">
+<div class="col-12 ">
+                <div class="card">
+<div class="card-body">
 {if $upline.email != ""}
     Your upline is <a href=mailto:{$upline.email}>{$upline.name}</a>
 {/if}
-        <div class="row">
+</div>
+</div>
+</div>
+
+	
 
             <div class="col-12 ">
                 <div class="card">
+ <div class="card-header">
+                            <h4 class="card-title">Your Referrals</h4>
+                        </div>
                     <div class="card-body pb-0">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item d-flex px-0 justify-content-between">
