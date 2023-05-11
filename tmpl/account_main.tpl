@@ -102,7 +102,7 @@
     }
   </style>
 {/literal}
-
+{* User Name *}
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
   <div class="widget-stat card">
     <div class="card-body p-4">
@@ -120,6 +120,9 @@
     </div>
   </div>
 </div>
+{* User Name *}
+
+{* account Balance *}
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
   <div class="widget-stat card">
     <div class="card-body p-4">
@@ -140,6 +143,9 @@
     </div>
   </div>
 </div>
+{* account Balance *}
+
+{* Earned Total *}
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
   <div class="widget-stat card">
     <div class="card-body p-4">
@@ -156,24 +162,29 @@
     </div>
   </div>
 </div>
+{* Earned Total *}
+
+{* Active Deposit *}
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
   <div class="widget-stat card">
     <div class="card-body p-4">
       <div class="media ai-icon">
         <span class="me-3 bgl-primary text-primary">
           <!-- <i class="ti-user"></i> -->
-          <svg fill="#6418C3" width="50px" height="50px" viewBox="-2.4 -2.4 28.80 28.80" xmlns="http://www.w3.org/2000/svg" stroke="#6418C3" stroke-width="0.00024000000000000003"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.048"></g><g id="SVGRepo_iconCarrier"><path d="M12,12a3,3,0,1,0,3,3A3,3,0,0,0,12,12Zm0,4a1,1,0,1,1,1-1A1,1,0,0,1,12,16Zm-.71-6.29a1,1,0,0,0,.33.21.94.94,0,0,0,.76,0,1,1,0,0,0,.33-.21L15,7.46A1,1,0,1,0,13.54,6L13,6.59V3a1,1,0,0,0-2,0V6.59L10.46,6A1,1,0,0,0,9,7.46ZM19,15a1,1,0,1,0-1,1A1,1,0,0,0,19,15Zm1-7H17a1,1,0,0,0,0,2h3a1,1,0,0,1,1,1v8a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1V11a1,1,0,0,1,1-1H7A1,1,0,0,0,7,8H4a3,3,0,0,0-3,3v8a3,3,0,0,0,3,3H20a3,3,0,0,0,3-3V11A3,3,0,0,0,20,8ZM5,15a1,1,0,1,0,1-1A1,1,0,0,0,5,15Z"></path></g></svg>
+          <svg fill="#6418C3" width="50px" height="50px" viewBox="-3.2 -3.2 38.40 38.40" xmlns="http://www.w3.org/2000/svg" stroke="#6418C3"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g data-name="11. Phone" id="_11._Phone"> <path d="M14,6a1,1,0,0,0,0-2H8A1,1,0,0,0,8,6Z"></path> <path d="M21,8.84v-4A4.8,4.8,0,0,0,16.21,0H5.79A4.8,4.8,0,0,0,1,4.79V27.21A4.8,4.8,0,0,0,5.79,32H16.21A4.8,4.8,0,0,0,21,27.21v-.05A10,10,0,0,0,21,8.84ZM16.21,30H5.79A2.79,2.79,0,0,1,3,27.21V4.79A2.79,2.79,0,0,1,5.79,2H16.21A2.79,2.79,0,0,1,19,4.79V8.2A10.2,10.2,0,0,0,17,8a9.92,9.92,0,0,0-7,2.89V10a1,1,0,0,0-2,0V26a1,1,0,0,0,2,0v-.89A9.92,9.92,0,0,0,17,28a10.19,10.19,0,0,0,1.93-.19A2.79,2.79,0,0,1,16.21,30ZM17,26a8,8,0,0,1-7-4.14V14.14A8,8,0,1,1,17,26Z"></path> <path d="M17,15h2a1,1,0,0,0,0-2H18a1,1,0,0,0-2,0v.18A3,3,0,0,0,17,19a1,1,0,0,1,0,2H15a1,1,0,0,0,0,2h1a1,1,0,0,0,2,0v-.18A3,3,0,0,0,17,17a1,1,0,0,1,0-2Z"></path> <path d="M30,5H27.41l.3-.29a1,1,0,1,0-1.42-1.42l-2,2a1,1,0,0,0,0,1.42l2,2a1,1,0,0,0,1.42,0,1,1,0,0,0,0-1.42L27.41,7H30a1,1,0,0,0,0-2Z"></path> </g> </g></svg>
         </span>
         <div class="media-body">
-          <p class="mb-1">Withdrew Total:</p>
-          <h4 class="mb-0">{$currency_sign}{$ab_formated.withdrawal}</h4>
+          <p class="mb-1">Active Deposit:</p>
+          <h4 class="mb-0">{$currency_sign}{$ab_formated.active_deposit}</h4>
           <!--<span class="badge badge-primary">+3.5%</span>-->
         </div>
       </div>
     </div>
   </div>
 </div>
+{* Active Deposit *}
 
+{* Referral Link *}
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
   <div class="widget-stat card">
     <div class="card-body p-4">
@@ -223,6 +234,29 @@
     </div>
   </div>
 </div>
+{* Referral Link *}
+
+{* Withdrew Total *}
+<div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
+  <div class="widget-stat card">
+    <div class="card-body p-4">
+      <div class="media ai-icon">
+        <span class="me-3 bgl-primary text-primary">
+          <!-- <i class="ti-user"></i> -->
+          <svg fill="#6418C3" width="50px" height="50px" viewBox="-2.4 -2.4 28.80 28.80" xmlns="http://www.w3.org/2000/svg" stroke="#6418C3" stroke-width="0.00024000000000000003"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0.048"></g><g id="SVGRepo_iconCarrier"><path d="M12,12a3,3,0,1,0,3,3A3,3,0,0,0,12,12Zm0,4a1,1,0,1,1,1-1A1,1,0,0,1,12,16Zm-.71-6.29a1,1,0,0,0,.33.21.94.94,0,0,0,.76,0,1,1,0,0,0,.33-.21L15,7.46A1,1,0,1,0,13.54,6L13,6.59V3a1,1,0,0,0-2,0V6.59L10.46,6A1,1,0,0,0,9,7.46ZM19,15a1,1,0,1,0-1,1A1,1,0,0,0,19,15Zm1-7H17a1,1,0,0,0,0,2h3a1,1,0,0,1,1,1v8a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1V11a1,1,0,0,1,1-1H7A1,1,0,0,0,7,8H4a3,3,0,0,0-3,3v8a3,3,0,0,0,3,3H20a3,3,0,0,0,3-3V11A3,3,0,0,0,20,8ZM5,15a1,1,0,1,0,1-1A1,1,0,0,0,5,15Z"></path></g></svg>
+        </span>
+        <div class="media-body">
+          <p class="mb-1">Withdrew Total:</p>
+          <h4 class="mb-0">{$currency_sign}{$ab_formated.withdrawal}</h4>
+          <!--<span class="badge badge-primary">+3.5%</span>-->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{* Withdrew Total *}
+
+{* Pending withdrawal *}
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
   <div class="widget-stat card">
     <div class="card-body p-4">
@@ -239,61 +273,78 @@
     </div>
   </div>
 </div>
-<div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
-  <div class="widget-stat card">
-    <div class="card-body p-4">
-      <div class="media ai-icon">
-        <span class="me-3 bgl-primary text-primary">
-          <!-- <i class="ti-user"></i> -->
-          <svg fill="#6418C3" width="50px" height="50px" viewBox="-3.2 -3.2 38.40 38.40" xmlns="http://www.w3.org/2000/svg" stroke="#6418C3"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g data-name="11. Phone" id="_11._Phone"> <path d="M14,6a1,1,0,0,0,0-2H8A1,1,0,0,0,8,6Z"></path> <path d="M21,8.84v-4A4.8,4.8,0,0,0,16.21,0H5.79A4.8,4.8,0,0,0,1,4.79V27.21A4.8,4.8,0,0,0,5.79,32H16.21A4.8,4.8,0,0,0,21,27.21v-.05A10,10,0,0,0,21,8.84ZM16.21,30H5.79A2.79,2.79,0,0,1,3,27.21V4.79A2.79,2.79,0,0,1,5.79,2H16.21A2.79,2.79,0,0,1,19,4.79V8.2A10.2,10.2,0,0,0,17,8a9.92,9.92,0,0,0-7,2.89V10a1,1,0,0,0-2,0V26a1,1,0,0,0,2,0v-.89A9.92,9.92,0,0,0,17,28a10.19,10.19,0,0,0,1.93-.19A2.79,2.79,0,0,1,16.21,30ZM17,26a8,8,0,0,1-7-4.14V14.14A8,8,0,1,1,17,26Z"></path> <path d="M17,15h2a1,1,0,0,0,0-2H18a1,1,0,0,0-2,0v.18A3,3,0,0,0,17,19a1,1,0,0,1,0,2H15a1,1,0,0,0,0,2h1a1,1,0,0,0,2,0v-.18A3,3,0,0,0,17,17a1,1,0,0,1,0-2Z"></path> <path d="M30,5H27.41l.3-.29a1,1,0,1,0-1.42-1.42l-2,2a1,1,0,0,0,0,1.42l2,2a1,1,0,0,0,1.42,0,1,1,0,0,0,0-1.42L27.41,7H30a1,1,0,0,0,0-2Z"></path> </g> </g></svg>
-        </span>
-        <div class="media-body">
-          <p class="mb-1">Active Deposit:</p>
-          <h4 class="mb-0">{$currency_sign}{$ab_formated.active_deposit}</h4>
-          <!--<span class="badge badge-primary">+3.5%</span>-->
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-{if $last_deposit}
-<div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
-  <div class="widget-stat card">
-    <div class="card-body p-4">
-      <div class="media ai-icon">
-        <span class="me-3 bgl-primary text-primary">
-          <!-- <i class="ti-user"></i> -->
-          <svg fill="#6418C3" width="50px" height="50px" viewBox="-3.2 -3.2 38.40 38.40" xmlns="http://www.w3.org/2000/svg" stroke="#6418C3"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g data-name="11. Phone" id="_11._Phone"> <path d="M14,6a1,1,0,0,0,0-2H8A1,1,0,0,0,8,6Z"></path> <path d="M21,8.84v-4A4.8,4.8,0,0,0,16.21,0H5.79A4.8,4.8,0,0,0,1,4.79V27.21A4.8,4.8,0,0,0,5.79,32H16.21A4.8,4.8,0,0,0,21,27.21v-.05A10,10,0,0,0,21,8.84ZM16.21,30H5.79A2.79,2.79,0,0,1,3,27.21V4.79A2.79,2.79,0,0,1,5.79,2H16.21A2.79,2.79,0,0,1,19,4.79V8.2A10.2,10.2,0,0,0,17,8a9.92,9.92,0,0,0-7,2.89V10a1,1,0,0,0-2,0V26a1,1,0,0,0,2,0v-.89A9.92,9.92,0,0,0,17,28a10.19,10.19,0,0,0,1.93-.19A2.79,2.79,0,0,1,16.21,30ZM17,26a8,8,0,0,1-7-4.14V14.14A8,8,0,1,1,17,26Z"></path> <path d="M17,15h2a1,1,0,0,0,0-2H18a1,1,0,0,0-2,0v.18A3,3,0,0,0,17,19a1,1,0,0,1,0,2H15a1,1,0,0,0,0,2h1a1,1,0,0,0,2,0v-.18A3,3,0,0,0,17,17a1,1,0,0,1,0-2Z"></path> <path d="M30,5H27.41l.3-.29a1,1,0,1,0-1.42-1.42l-2,2a1,1,0,0,0,0,1.42l2,2a1,1,0,0,0,1.42,0,1,1,0,0,0,0-1.42L27.41,7H30a1,1,0,0,0,0-2Z"></path> </g> </g></svg>
-        </span>
-        <div class="media-body">
-          <p class="mb-1">Last Deposit:</p>
-          <h4 class="mb-0">{$currency_sign}{$last_deposit|default:"n/a"} <small>{$last_deposit_date|default:"n/a"}</small></h4>
-          <!--<span class="badge badge-primary">+3.5%</span>-->
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-{/if}
+{* Pending withdrawal *}
 
-{if $ab_formated.deposit != 0}
-<div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
-  <div class="widget-stat card">
-    <div class="card-body p-4">
-      <div class="media ai-icon">
-        <span class="me-3 bgl-primary text-primary">
-          <svg width="50px" height="50px" viewBox="0 0 1024 1024" class="icon" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M200.99 814.55c-23.52-39.54-24.45-87.29-2.48-127.71l214.17-394.27h127.24l119.46 218.25 64.14-35.11-100.24-183.14h35.02v-73.14h-33.39l69.95-146.29H256l76.33 146.29h-39.76v73.14h36.84l-195.2 359.34c-34.39 63.34-32.93 138.11 3.91 200.04s101.86 98.91 173.91 98.91h89.3v-73.14h-89.3c-46-0.01-87.52-23.61-111.04-63.17z m175.68-668.26h202.14l-34.98 73.14H414.84l-38.17-73.14z" fill="#6418C3"></path><path d="M914.29 731.43V548.57H475.44v109.71H402.3v182.86h73.14v109.71H914.29V768h-73.14v-36.57h73.14z m-73.14-109.72v36.57h-36.57v-36.57h36.57z m-292.57 0h182.86v36.57H548.58v-36.57z m-73.14 109.72H658.3V768H475.44v-36.57z m73.14 146.28v-36.57h182.85v36.57H548.58z m292.57 0h-36.57v-36.57h36.57v36.57zM731.44 768v-36.57h36.57V768h-36.57z" fill="#6418C3"></path></g></svg>
-        </span>
-        <div class="media-body">
-          <p class="mb-1">Total Deposit:</p>
-          <h4 class="mb-0">{$currency_sign}{$ab_formated.deposit}</h4>
-          <!--<span class="badge badge-primary">+3.5%</span>-->
+{* Last Deposit *}
+{if $last_deposit}
+  <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
+    <div class="widget-stat card">
+      <div class="card-body p-4">
+        <div class="media ai-icon">
+          <span class="me-3 bgl-primary text-primary">
+            <!-- <i class="ti-user"></i> -->
+            <svg fill="#6418C3" width="50px" height="50px" viewBox="-3.2 -3.2 38.40 38.40" xmlns="http://www.w3.org/2000/svg" stroke="#6418C3"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g data-name="11. Phone" id="_11._Phone"> <path d="M14,6a1,1,0,0,0,0-2H8A1,1,0,0,0,8,6Z"></path> <path d="M21,8.84v-4A4.8,4.8,0,0,0,16.21,0H5.79A4.8,4.8,0,0,0,1,4.79V27.21A4.8,4.8,0,0,0,5.79,32H16.21A4.8,4.8,0,0,0,21,27.21v-.05A10,10,0,0,0,21,8.84ZM16.21,30H5.79A2.79,2.79,0,0,1,3,27.21V4.79A2.79,2.79,0,0,1,5.79,2H16.21A2.79,2.79,0,0,1,19,4.79V8.2A10.2,10.2,0,0,0,17,8a9.92,9.92,0,0,0-7,2.89V10a1,1,0,0,0-2,0V26a1,1,0,0,0,2,0v-.89A9.92,9.92,0,0,0,17,28a10.19,10.19,0,0,0,1.93-.19A2.79,2.79,0,0,1,16.21,30ZM17,26a8,8,0,0,1-7-4.14V14.14A8,8,0,1,1,17,26Z"></path> <path d="M17,15h2a1,1,0,0,0,0-2H18a1,1,0,0,0-2,0v.18A3,3,0,0,0,17,19a1,1,0,0,1,0,2H15a1,1,0,0,0,0,2h1a1,1,0,0,0,2,0v-.18A3,3,0,0,0,17,17a1,1,0,0,1,0-2Z"></path> <path d="M30,5H27.41l.3-.29a1,1,0,1,0-1.42-1.42l-2,2a1,1,0,0,0,0,1.42l2,2a1,1,0,0,0,1.42,0,1,1,0,0,0,0-1.42L27.41,7H30a1,1,0,0,0,0-2Z"></path> </g> </g></svg>
+          </span>
+          <div class="media-body">
+            <p class="mb-1">Last Deposit:</p>
+            <h4 class="mb-0">{$currency_sign}{$last_deposit|default:"n/a"} <small>{$last_deposit_date|default:"n/a"}</small></h4>
+            <!--<span class="badge badge-primary">+3.5%</span>-->
+          </div>
         </div>
       </div>
     </div>
   </div>
-</div>
+  {/if}
+{* Last Deposit *}
+
+{* Total Deposit *}
+{if $ab_formated.deposit != 0}
+  <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
+    <div class="widget-stat card">
+      <div class="card-body p-4">
+        <div class="media ai-icon">
+          <span class="me-3 bgl-primary text-primary">
+            <svg
+              width="50px"
+              height="50px"
+              viewBox="0 0 1024 1024"
+              class="icon"
+              version="1.1"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="#000000"
+            >
+              <g
+                id="SVGRepo_bgCarrier"
+                stroke-width="0"
+              ></g>
+              <g
+                id="SVGRepo_tracerCarrier"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              ></g>
+              <g id="SVGRepo_iconCarrier">
+                <path
+                  d="M200.99 814.55c-23.52-39.54-24.45-87.29-2.48-127.71l214.17-394.27h127.24l119.46 218.25 64.14-35.11-100.24-183.14h35.02v-73.14h-33.39l69.95-146.29H256l76.33 146.29h-39.76v73.14h36.84l-195.2 359.34c-34.39 63.34-32.93 138.11 3.91 200.04s101.86 98.91 173.91 98.91h89.3v-73.14h-89.3c-46-0.01-87.52-23.61-111.04-63.17z m175.68-668.26h202.14l-34.98 73.14H414.84l-38.17-73.14z"
+                  fill="#6418C3"
+                ></path>
+                <path
+                  d="M914.29 731.43V548.57H475.44v109.71H402.3v182.86h73.14v109.71H914.29V768h-73.14v-36.57h73.14z m-73.14-109.72v36.57h-36.57v-36.57h36.57z m-292.57 0h182.86v36.57H548.58v-36.57z m-73.14 109.72H658.3V768H475.44v-36.57z m73.14 146.28v-36.57h182.85v36.57H548.58z m292.57 0h-36.57v-36.57h36.57v36.57zM731.44 768v-36.57h36.57V768h-36.57z"
+                  fill="#6418C3"
+                ></path>
+              </g>
+            </svg>
+          </span>
+          <div class="media-body">
+            <p class="mb-1">Total Deposit:</p>
+            <h4 class="mb-0">{$currency_sign}{$ab_formated.deposit}</h4>
+            <!--<span class="badge badge-primary">+3.5%</span>-->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 {/if}
+{* Total Deposit *}
 
 {if $last_withdrawal}
 <div class="col-xl-3 col-xxl-6 col-lg-6 col-sm-6">
