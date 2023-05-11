@@ -158,7 +158,7 @@
 
             <div class="nav-header">
                 
-                <a href="?a=account" class="brand-logo">
+                <a href="?a=home" class="brand-logo">
 
                     <svg data-v-423bf9ae="" class="logo-abbr" width="45" height="45" xmlns="http://www.w3.org/2000/svg" viewBox="10 10 210 90">
                         <!---->
