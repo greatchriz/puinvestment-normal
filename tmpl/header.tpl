@@ -183,6 +183,10 @@
                                 <div class="dashboard_bar">
                                     Dashboard
                                 </div>
+
+                                <div class="dashboard_bar">
+                                    <div id="google_translate_element"></div>
+                                </div>
                             </div>
 
                             <ul class="navbar-nav header-right">
