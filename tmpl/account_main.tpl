@@ -1,4 +1,24 @@
 {include file="header.tpl"}
+
+{literal}
+<script>
+	function copyText() {
+	  // Get the text field
+	  var copyText = document.getElementById("refLink");
+	
+	  // Select the text field
+	  copyText.select();
+	  copyText.setSelectionRange(0, 99999); // For mobile devices
+	
+	  // Copy the text inside the text field
+	  navigator.clipboard.writeText(copyText.value);
+	  
+	  // Alert the copied text
+	  alert("Copied the text: " + copyText.value);
+	}
+	</script>
+{/literal}
+
 {literal}
   <style>
     .widget-stat .media {
@@ -168,6 +188,7 @@
               class="form-control mx-2"
               value="{$settings.site_url}/?ref={$userinfo.username}"
               disabled=""
+              id="refLink"
             >
             <svg
               width="40px"
@@ -175,6 +196,7 @@
               viewBox="0 0 24 24"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
+              onclick="copyText()"
             >
               <g
                 id="SVGRepo_bgCarrier"
