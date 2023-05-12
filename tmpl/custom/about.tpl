@@ -53,44 +53,62 @@
 
 {block name=section2}
 <div class="container md:mt-24 mt-16">
+    <div class="p-6 shadow-xl shadow-gray-200 dark:shadow-gray-800 transition duration-500 rounded-2xl border-t">
         <div class="grid grid-cols-1 pb-8 text-center">
             <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
 
-            <p class="text-slate-400 max-w-xl mx-auto">Transparency, Client Service, and Long-Term Thinking are  Our Core Values at Puinvestment.</p>
+            <p class="text-slate-400 max-w-xl mx-auto">Transparency, Client Service, and Long-Term Thinking are Our Core
+                Values at Puinvestment.</p>
         </div>
-        <div class="grid lg:grid-cols-12 grid-cols-1 gap-6" id="reserve-form">
+        <div
+            class="grid lg:grid-cols-12 grid-cols-1 gap-6"
+            id="reserve-form"
+        >
             <div class="lg:col-start-2 lg:col-span-10">
                 <h5 class="mb-4 font-medium text-xl">Description:</h5>
 
-                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products
+                    that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions,
+                    decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
             </div>
 
             <div class="lg:col-start-2 lg:col-span-10">
                 <h5 class="mb-4 font-medium text-xl">Description:</h5>
 
-                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products
+                    that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions,
+                    decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
             </div>
 
             <div class="lg:col-start-2 lg:col-span-10">
                 <h5 class="mb-4 font-medium text-xl">Description:</h5>
 
-                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products
+                    that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions,
+                    decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
             </div>
 
             <div class="lg:col-start-2 lg:col-span-10">
                 <h5 class="mb-4 font-medium text-xl">Description:</h5>
 
-                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products
+                    that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions,
+                    decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
             </div>
 
             <div class="lg:col-start-2 lg:col-span-10">
                 <h5 class="mb-4 font-medium text-xl">Description:</h5>
 
-                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products
+                    that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions,
+                    decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
             </div>
-        </div><!--end grid-->
-        
+        </div>
+        <!--end grid-->
     </div>
+
+</div>
+
 {/block}
 
 {block name=section3}
