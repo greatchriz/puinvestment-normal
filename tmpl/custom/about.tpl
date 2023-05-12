@@ -124,23 +124,6 @@
     <!--end grid-->
 </div>
 {/block}
-
-
-{block name=section3}
-<div class="container p-6">
-    <div class="grid grid-cols-1 pb-8 text-center">
-        <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
-
-        <p class="text-slate-400 max-w-xl mx-auto">Transparency, Client Service, and Long-Term Thinking are Our Core
-            Values at Puinvestment.</p>
-    </div>
-    <div class="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-[30px]">
-        {include file="sections/about/why_choose_us.tpl"}
-
-    </div>
-    <!--end grid-->
-</div>
-{/block}
                            
 {block name=section4}
 <div class="container md:mt-24 mt-16">
