@@ -12,7 +12,7 @@
                     aria-expanded="false"
                     aria-controls="accordion-collapse-body-6"
                 >
-                    <span>Do I need a designer to use Techwind ?</span>
+                    <span>{$title}</span>
                     <svg
                         data-accordion-icon
                         class="w-4 h-4 shrink-0"
@@ -34,8 +34,7 @@
                 aria-labelledby="accordion-collapse-heading-6"
             >
                 <div class="p-5">
-                    <p class="text-slate-400 dark:text-gray-400">There are many variations of passages of Lorem Ipsum
-                        available, but the majority have suffered alteration in some form.</p>
+                    <p class="text-slate-400 dark:text-gray-400">{$text}</p>
                 </div>
             </div>
         </div>
