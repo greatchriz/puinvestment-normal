@@ -30,7 +30,12 @@
                         data-accordion="collapse"
                         class="mt-6"
                     >
-                        {include file="sections/faq/faq-detail.tpl"}
+                    {* header_id
+                    body_id
+                    title
+                    body *}
+                    {include file="sections/faq/faq-detail.tpl" headerId="accordion-collapse-heading-5" bodyId="accordion-collapse-body-5" title="How does it work ?" body="There are many variations of passages of Lorem Ipsum
+                    available, but the majority have suffered alteration in some form."}
                     </div>
                 </div>
             </div>
