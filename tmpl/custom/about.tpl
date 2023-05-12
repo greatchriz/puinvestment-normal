@@ -7,24 +7,7 @@
 <!-- Start Section-->
     <div class="container">
         <div class="grid md:grid-cols-12 grid-cols-1 items-center gap-[30px]">
-            <div class="lg:col-span-5 md:col-span-6">
-                <div class="grid grid-cols-12 gap-6 items-center">
-                    <div class="col-span-6">
-                        <div class="grid grid-cols-1 gap-6">
-                            <img src="assets/images/about/ab03.jpg" class="shadow rounded-md" alt="">
-                            <img src="assets/images/about/ab02.jpg" class="shadow rounded-md" alt="">
-                        </div>
-                    </div>
-
-                    <div class="col-span-6">
-                        <div class="grid grid-cols-1 gap-6">
-                            <img src="assets/images/about/ab01.jpg" class="shadow rounded-md" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="lg:col-span-7 md:col-span-6">
+            <div class="lg:col-span-12 md:col-span-12">
                 <div class="lg:ms-5">
                     <div class="flex mb-4">
                         <span class="text-indigo-600 text-2xl font-bold mb-0"><span class="counter-value text-6xl font-bold" data-target="15">1</span>+</span>
