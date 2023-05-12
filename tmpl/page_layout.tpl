@@ -7,9 +7,10 @@
 
     <!-- Mirrored from shreethemes.in/techwind/layouts/page-services.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 May 2023 16:50:44 GMT -->
 
+
     <head>
         <meta charset="UTF-8" />
-        <title>Techwind - Tailwind CSS Multipurpose Landing Page Template</title>
+        <title>Puinvestment - WE trade it you earn it</title>
         <meta
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
@@ -51,11 +52,15 @@
 
         <!-- Css -->
         <link
+            href="assets/libs/tobii/css/tobii.min.css"
+            rel="stylesheet"
+        >
+        <link
             href="assets/libs/tiny-slider/tiny-slider.css"
             rel="stylesheet"
         >
         <link
-            href="assets/libs/tobii/css/tobii.min.css"
+            href="assets/libs/swiper/css/swiper.min.css"
             rel="stylesheet"
         >
         <!-- Main Css -->
