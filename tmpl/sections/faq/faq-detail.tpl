@@ -1,14 +1,4 @@
-<div
-    id="general"
-    class="mt-8"
->
-    <h5 class="text-2xl font-semibold">General Questions</h5>
 
-    <div
-        id="accordion-collapsetwo"
-        data-accordion="collapse"
-        class="mt-6"
-    >
         <div class="relative shadow dark:shadow-gray-800 rounded-md overflow-hidden">
             <h2
                 class="text-base font-semibold"
@@ -168,5 +158,4 @@
                 </div>
             </div>
         </div>
-    </div>
-</div>
+
