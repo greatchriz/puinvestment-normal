@@ -81,55 +81,25 @@
 {/block}
 
 {block name=section2}
-<div class="container md:mt-24 mt-16">
-    <div class="p-6 shadow-xl shadow-gray-200 dark:shadow-gray-800 transition duration-500 rounded-2xl border-t">
+<div class="container">
         <div class="grid grid-cols-1 pb-8 text-center">
             <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
 
             <p class="text-slate-400 max-w-xl mx-auto">Transparency, Client Service, and Long-Term Thinking are Our Core
                 Values at Puinvestment.</p>
         </div>
-        <div
-            class="grid lg:grid-cols-12 grid-cols-1 gap-6"
-            id="reserve-form"
-        >
-            <div class="lg:col-start-2 lg:col-span-10 overflow-hidden">
-                <img src="assets/images/blog/05.jpg" alt="">
-                <h5 class="mb-4 font-medium text-xl">Transparency</h5>
+        <div class="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-[30px]">
+            {include file="sections/about/philosophy.tpl"}
 
-                <p class="text-slate-400 mb-4">At Puinvestment, we believe that transparency is key to building trust and strong relationships with our clients. That's why we are committed to providing clear and detailed information about our investment and trading strategies, as well as regular updates on performance and market conditions.</p>
-            </div>
+            {include file="sections/about/philosophy.tpl"}
 
-            <div class="lg:col-start-2 lg:col-span-10">
-                <h5 class="mb-4 font-medium text-xl">Client Service</h5>
+            {include file="sections/about/philosophy.tpl"}
 
-                <p class="text-slate-400 mb-4">We understand that our clients' success is our success. That's why we are dedicated to providing exceptional client service, including personalized investment advice, responsive support, and a deep understanding of each client's unique needs and goals.
-                 </p>
-            </div>
+            {include file="sections/about/philosophy.tpl"}
 
-            <div class="lg:col-start-2 lg:col-span-10">
-                <h5 class="mb-4 font-medium text-xl">Innovation</h5>
 
-                <p class="text-slate-400 mb-4">The digital asset space is constantly evolving, and we believe that it's essential to stay ahead of the curve. That's why we are committed to continuous innovation, exploring new technologies and strategies that can help us deliver better results for our clients.</p>
-            </div>
-
-            <div class="lg:col-start-2 lg:col-span-10">
-                <h5 class="mb-4 font-medium text-xl">Risk Management</h5>
-
-                <p class="text-slate-400 mb-4">Investing in digital assets can be volatile and unpredictable, and managing risk is essential for long-term success. That's why we take a proactive approach to risk management, using sophisticated tools and techniques to help minimize risk and protect our clients' investments.
-                </p>
-            </div>
-
-            <div class="lg:col-start-2 lg:col-span-10">
-                <h5 class="mb-4 font-medium text-xl">Long-Term Thinking:</h5>
-
-                <p class="text-slate-400 mb-4">At Puinvestment, we believe in taking a long-term approach to investing and trading in the digital asset space. We are not interested in quick wins or short-term gains - instead, we are focused on building sustainable, long-term value for our clients. This means making thoughtful, strategic decisions based on a deep understanding of the market and each client's individual needs and goals.
-                </p>
-            </div>
         </div>
         <!--end grid-->
-    </div>
-
 </div>
 
 {/block}
