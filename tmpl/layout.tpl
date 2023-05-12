@@ -9,7 +9,7 @@
 
     <head>
         <meta charset="UTF-8" />
-        <title>Techwind - Tailwind CSS Multipurpose Landing Page Template</title>
+        <title>Puinvestment - WE trade it you earn it</title>
         <meta
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
