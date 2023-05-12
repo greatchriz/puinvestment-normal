@@ -81,7 +81,6 @@
 {/block}
 
 {block name=section2}
-<section class="relative md:py-24 py-16">
 <div class="container">
     <div class="grid grid-cols-1 pb-8 text-center">
         <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
@@ -124,11 +123,25 @@
     </div>
     <!--end grid-->
 </div>
-</section>
-
 {/block}
 
+
 {block name=section3}
+<div class="container">
+    <div class="grid grid-cols-1 pb-8 text-center">
+        <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
+
+        <p class="text-slate-400 max-w-xl mx-auto">Transparency, Client Service, and Long-Term Thinking are Our Core
+            Values at Puinvestment.</p>
+    </div>
+    <div class="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-[30px]">
+        {include file="sections/about/why_choose_us.tpl"}
+
+    </div>
+    <!--end grid-->
+</div>
+
+{block name=section4}
     <div class="container md:mt-24 mt-16">
         <div class="grid grid-cols-1 pb-8 text-center">
             <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">What Our Users Say</h3>
@@ -314,21 +327,6 @@
     <!--end container-->
 {/block}
 
-{block name=section4}
-    <div class="container md:mt-24 mt-16">
-        <div class="grid grid-cols-1 text-center">
-            <h6 class="text-indigo-600 text-sm font-bold mb-2">Available for freelance projects</h6>
-            <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Do you have digital project? <br> Let's talk.</h3>
-
-            <p class="text-slate-400 max-w-xl mx-auto">Start working with Techwind that can provide everything you need to generate awareness, drive traffic, connect.</p>
-        
-            <div class="mt-6">
-                <a href="contact-one.html" class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md mt-4"><i class="uil uil-phone"></i> Contact us</a>
-            </div>
-        </div><!--end grid-->
-    </div><!--end container-->
-{/block}
-
 {block name=section5}
 <div class="container md:mt-24 mt-16">
     <div class="grid grid-cols-1 pb-8 text-center">
@@ -337,7 +335,7 @@
         <p class="text-slate-400 max-w-xl mx-auto">Our office is located at: <strong>Schulstr. 12 b, D-61479 Glashütten, Germany.</strong></p>
     </div>
     <!--end grid-->
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49531.97368196144!2d8.341958829469506!3d50.20673892372143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bdaff18717ff09%3A0x1c224353694a9c70!2s61479%20Glash%C3%BCtten%2C%20Germany!5e0!3m2!1sen!2sng!4v1683864305779!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40856.97371879149!2d8.341958829469506!3d50.20673892372143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bdaff18717ff09%3A0x1c224353694a9c70!2s61479%20Glash%C3%BCtten%2C%20Germany!5e0!3m2!1sen!2sng!4v1683873006040!5m2!1sen!2sng" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {/block}
 
