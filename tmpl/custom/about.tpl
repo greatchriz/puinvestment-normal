@@ -10,16 +10,35 @@
             <div class="lg:col-span-12 md:col-span-12">
                 <div class="lg:ms-5">
                     <div class="flex mb-4">
-                        <span class="text-indigo-600 text-2xl font-bold mb-0"><span class="counter-value text-6xl font-bold" data-target="15">1</span>+</span>
+                        <span class="text-indigo-600 text-2xl font-bold mb-0"><span class="counter-value text-6xl font-bold" data-target="9">1</span>+</span>
                         <span class="self-end font-medium ms-2">Years <br> Experience</span>
                     </div>
 
                     <h3 class="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold">Who we are ?</h3>
 
-                    <p class="text-slate-400 max-w-xl">Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.</p>
+                    <p class="text-slate-400 max-w-xl">
+                        Puinvestment is a leading trading and investment firm specializing in digital assets, including cryptocurrency. But how did we get our start? In this article, we'll take a look back at our journey and explore the key moments that shaped our history.
+                    </p>
+                    <p class="text-slate-400 max-w-xl">It all started in 2014, when a group of cryptocurrency enthusiasts came together to explore the potential of digital assets. At the time, the digital asset market was still in its infancy, and many people were skeptical of its potential. But we saw something different: we saw an opportunity.</p>
+
+                    <p class="text-slate-400 max-w-xl">Over the next few years, we worked tirelessly to build a platform that could help people invest in digital assets. We focused on developing a user-friendly trading platform that could provide our clients with access to a wide range of digital assets, as well as the tools and resources they needed to make informed investment decisions.</p>
+
+                    <p class="text-slate-400 max-w-xl">Our efforts paid off, and by 2017, we had become a trusted name in the digital asset market. That year, we launched our investment management services, which were designed to help our clients build diversified portfolios of digital assets that aligned with their investment goals and risk tolerance.</p>
+
+                    <p class="text-slate-400 max-w-xl">
+                        Since then, we've continued to grow and evolve, staying ahead of the curve in the rapidly changing digital asset market. We've expanded our offerings to include consulting services, helping businesses and individuals navigate the complexities of the digital asset market and develop investment strategies that work for them.
+                    </p>
+
+                    <p class="text-slate-400 max-w-xl">
+                        But even as we've grown, we've never lost sight of our core values. We believe in putting our clients first, and we're committed to providing them with the highest level of service and support. We believe in doing business with integrity, and we're committed to transparency and accountability in everything we do.
+                    </p>
+
+                    <p class="text-slate-400 max-w-xl">
+                        Looking back at our journey, it's clear that we've come a long way since our early days as cryptocurrency enthusiasts. But we're just getting started. We believe that the digital asset market still has a lot of potential, and we're committed to helping our clients unlock that potential through innovative investment strategies and a relentless focus on their needs.
+                    </p>
                 
                     <div class="mt-6">
-                        <a href="contact-one.html" class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md me-2 mt-2"><i class="uil uil-envelope"></i> Contact us</a>
+                        <a href="?a=deposit" class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md me-2 mt-2"><i class="uil uil-envelope"></i> Contact us</a>
                     </div>
                 </div>
             </div>
@@ -29,146 +48,43 @@
 
 {block name=section2}
     <div class="container">
-        <div class="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-[30px]">
-            <div
-                class="p-6 hover:shadow-xl hover:shadow-gray-100 dark:hover:shadow-gray-800 transition duration-500 rounded-2xl mt-6 text-center">
-                <div
-                    class="w-20 h-20 bg-indigo-600/5 text-indigo-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm dark:shadow-gray-800 mx-auto">
-                    <i class="uil uil-airplay"></i>
-                </div>
+        <div class="grid grid-cols-1 pb-8 text-center">
+            <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
 
-                <div class="content mt-7">
-                    <a
-                        href="page-services.html"
-                        class="title h5 text-lg font-medium hover:text-indigo-600"
-                    >UX / UI Design</a>
-                    <p class="text-slate-400 mt-3">The phrasal sequence of the is now so that many campaign and benefit</p>
-
-                    <div class="mt-5">
-                        <a
-                            href="page-services.html"
-                            class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                        >Read More <i class="uil uil-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-
-            <div
-                class="p-6 shadow-xl shadow-gray-100 dark:shadow-gray-800 transition duration-500 rounded-2xl mt-6 text-center">
-                <div
-                    class="w-20 h-20 bg-indigo-600/5 text-indigo-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm dark:shadow-gray-800 mx-auto">
-                    <i class="uil uil-shutter"></i>
-                </div>
-
-                <div class="content mt-7">
-                    <a
-                        href="page-services.html"
-                        class="title h5 text-lg font-medium hover:text-indigo-600"
-                    >IOS App Designer</a>
-                    <p class="text-slate-400 mt-3">The phrasal sequence of the is now so that many campaign and benefit</p>
-
-                    <div class="mt-5">
-                        <a
-                            href="page-services.html"
-                            class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                        >Read More <i class="uil uil-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-
-            <div
-                class="p-6 hover:shadow-xl hover:shadow-gray-100 dark:hover:shadow-gray-800 transition duration-500 rounded-2xl mt-6 text-center">
-                <div
-                    class="w-20 h-20 bg-indigo-600/5 text-indigo-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm dark:shadow-gray-800 mx-auto">
-                    <i class="uil uil-camera-plus"></i>
-                </div>
-
-                <div class="content mt-7">
-                    <a
-                        href="page-services.html"
-                        class="title h5 text-lg font-medium hover:text-indigo-600"
-                    >Photography</a>
-                    <p class="text-slate-400 mt-3">The phrasal sequence of the is now so that many campaign and benefit</p>
-
-                    <div class="mt-5">
-                        <a
-                            href="page-services.html"
-                            class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                        >Read More <i class="uil uil-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-
-            <div
-                class="p-6 shadow-xl shadow-gray-100 dark:shadow-gray-800 transition duration-500 rounded-2xl mt-6 text-center">
-                <div
-                    class="w-20 h-20 bg-indigo-600/5 text-indigo-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm dark:shadow-gray-800 mx-auto">
-                    <i class="uil uil-flower"></i>
-                </div>
-
-                <div class="content mt-7">
-                    <a
-                        href="page-services.html"
-                        class="title h5 text-lg font-medium hover:text-indigo-600"
-                    >Graphic Designer</a>
-                    <p class="text-slate-400 mt-3">The phrasal sequence of the is now so that many campaign and benefit</p>
-
-                    <div class="mt-5">
-                        <a
-                            href="page-services.html"
-                            class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                        >Read More <i class="uil uil-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-
-            <div
-                class="p-6 hover:shadow-xl hover:shadow-gray-100 dark:hover:shadow-gray-800 transition duration-500 rounded-2xl mt-6 text-center">
-                <div
-                    class="w-20 h-20 bg-indigo-600/5 text-indigo-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm dark:shadow-gray-800 mx-auto">
-                    <i class="uil uil-cog"></i>
-                </div>
-
-                <div class="content mt-7">
-                    <a
-                        href="page-services.html"
-                        class="title h5 text-lg font-medium hover:text-indigo-600"
-                    >Web Security</a>
-                    <p class="text-slate-400 mt-3">The phrasal sequence of the is now so that many campaign and benefit</p>
-
-                    <div class="mt-5">
-                        <a
-                            href="page-services.html"
-                            class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                        >Read More <i class="uil uil-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-
-            <div
-                class="p-6 shadow-xl shadow-gray-100 dark:shadow-gray-800 transition duration-500 rounded-2xl mt-6 text-center">
-                <div
-                    class="w-20 h-20 bg-indigo-600/5 text-indigo-600 rounded-xl text-3xl flex align-middle justify-center items-center shadow-sm dark:shadow-gray-800 mx-auto">
-                    <i class="uil uil-comment"></i>
-                </div>
-
-                <div class="content mt-7">
-                    <a
-                        href="page-services.html"
-                        class="title h5 text-lg font-medium hover:text-indigo-600"
-                    >24/7 Support</a>
-                    <p class="text-slate-400 mt-3">The phrasal sequence of the is now so that many campaign and benefit</p>
-
-                    <div class="mt-5">
-                        <a
-                            href="page-services.html"
-                            class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                        >Read More <i class="uil uil-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
+            <p class="text-slate-400 max-w-xl mx-auto">Transparency, Client Service, and Long-Term Thinking are  Our Core Values at Puinvestment.</p>
         </div>
-        <!--end grid-->
+        <div class="grid lg:grid-cols-12 grid-cols-1" id="reserve-form">
+            <div class="lg:col-start-2 lg:col-span-10">
+                <h5 class="mb-4 font-medium text-xl">Description:</h5>
+
+                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+            </div>
+
+            <div class="lg:col-start-2 lg:col-span-10">
+                <h5 class="mb-4 font-medium text-xl">Description:</h5>
+
+                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+            </div>
+
+            <div class="lg:col-start-2 lg:col-span-10">
+                <h5 class="mb-4 font-medium text-xl">Description:</h5>
+
+                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+            </div>
+
+            <div class="lg:col-start-2 lg:col-span-10">
+                <h5 class="mb-4 font-medium text-xl">Description:</h5>
+
+                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+            </div>
+
+            <div class="lg:col-start-2 lg:col-span-10">
+                <h5 class="mb-4 font-medium text-xl">Description:</h5>
+
+                <p class="text-slate-400 mb-4">Our vision is to provide the next billion people with access to products that exemplify the ideals of Techwind. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+            </div>
+        </div><!--end grid-->
+        
     </div>
 {/block}
 
