@@ -7,9 +7,11 @@
 {block name=section1}
 <div class="container md:mt-24 mt-16">
     <div class="grid grid-cols-1 pb-8 text-center">
-        <h3 class="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold">Get Started</h3>
+        <h3 class="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold">Partner with PU Investment - Together, We Can Make a Difference</h3>
 
-        <p class="text-slate-400 max-w-xl mx-auto">Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect.</p>
+        <p class="text-slate-400 max-w-xl mx-auto">
+            At PU Investment, we are committed to making a positive impact in the world by supporting sustainable and socially responsible businesses. We believe that by working together with like-minded partners, we can achieve even greater results. If you share our values and are interested in partnering with us, we would love to hear from you.
+        </p>
     </div><!--end grid-->
 
     <div class="grid md:grid-cols-2 grid-cols-1 mt-8 gap-[30px]">
@@ -60,13 +62,6 @@
             </div>
         </div>
         
-        <div class="flex">
-            <i data-feather="help-circle" class="fea icon-ex-md text-indigo-600 me-3"></i>
-            <div class="flex-1">
-                <h5 class="mb-2 text-xl font-semibold"> Is <span class="text-indigo-600">PU-INVESTMENT </span> is it safe to work wuth our analyst. ?</h5>
-                <p class="text-slate-400">Choose PU-INVESTMENT for the best investment experience with the best team of experts..</p>
-            </div>
-        </div>
     </div><!--end grid-->
 </div><!--end container-->
 {/block}
