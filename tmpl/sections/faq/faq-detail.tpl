@@ -1,39 +1,39 @@
 
-<div class="relative shadow dark:shadow-gray-800 rounded-md overflow-hidden">
-    <h2
-        class="text-base font-semibold"
-        id="{$headerId}"
-    >
-        <button
-            type="button"
-            class="flex justify-between items-center p-5 w-full font-medium ltr:text-left rtl:text-right"
-            data-accordion-target=""
-            aria-expanded="true"
-            aria-controls="{$bodyId}"
-        >
-            <span>{$title}</span>
-            <svg
-                data-accordion-icon
-                class="w-4 h-4 rotate-180 shrink-0"
-                fill="currentColor"
-                viewBox="0 0 20 20"
-                xmlns="http://www.w3.org/2000/svg"
+        <div class="relative shadow dark:shadow-gray-800 rounded-md overflow-hidden">
+            <h2
+                class="text-base font-semibold"
+                id="{$titleId}"
             >
-                <path
-                    fill-rule="evenodd"
-                    d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
-                    clip-rule="evenodd"
-                ></path>
-            </svg>
-        </button>
-    </h2>
-    <div
-        id="{$bodyId}"
-        class="hidden"
-        aria-labelledby="{headerId}"
-    >
-        <div class="p-5">
-            <p class="text-slate-400 dark:text-gray-400">{$body}</p>
+                <button
+                    type="button"
+                    class="flex justify-between items-center p-5 w-full font-medium ltr:text-left rtl:text-right"
+                    data-accordion-target="#{$textId}"
+                    aria-expanded="true"
+                    aria-controls="{$textId}"
+                >
+                    <span>{$title}</span>
+                    <svg
+                        data-accordion-icon
+                        class="w-4 h-4 rotate-180 shrink-0"
+                        fill="currentColor"
+                        viewBox="0 0 20 20"
+                        xmlns="http://www.w3.org/2000/svg"
+                    >
+                        <path
+                            fill-rule="evenodd"
+                            d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+                            clip-rule="evenodd"
+                        ></path>
+                    </svg>
+                </button>
+            </h2>
+            <div
+                id="{$textId}"
+                class="hidden"
+                aria-labelledby="{titleId}"
+            >
+                <div class="p-5">
+                    <p class="text-slate-400 dark:text-gray-400">{$text}</p>
+                </div>
+            </div>
         </div>
-    </div>
-</div>
