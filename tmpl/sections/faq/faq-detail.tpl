@@ -8,9 +8,9 @@
                 <button
                     type="button"
                     class="flex justify-between items-center p-5 w-full font-medium ltr:text-left rtl:text-right"
-                    data-accordion-target="#accordion-collapse-body-6"
+                    data-accordion-target="#{#textId}"
                     aria-expanded="false"
-                    aria-controls="accordion-collapse-body-6"
+                    aria-controls="{#textId}"
                 >
                     <span>{$title}</span>
                     <svg
@@ -29,7 +29,7 @@
                 </button>
             </h2>
             <div
-                id="accordion-collapse-body-6"
+                id="{#textId}"
                 class="hidden"
                 aria-labelledby="accordion-collapse-heading-6"
             >
