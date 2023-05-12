@@ -1,20 +1,21 @@
 
-        <div class="relative shadow dark:shadow-gray-800 rounded-md overflow-hidden">
+
+        <div class="relative shadow dark:shadow-gray-800 rounded-md overflow-hidden mt-4">
             <h2
                 class="text-base font-semibold"
-                id="{$titleId}"
+                id="accordion-collapse-heading-6"
             >
                 <button
                     type="button"
                     class="flex justify-between items-center p-5 w-full font-medium ltr:text-left rtl:text-right"
-                    data-accordion-target="#{$textId}"
-                    aria-expanded="true"
-                    aria-controls="{$textId}"
+                    data-accordion-target="#accordion-collapse-body-6"
+                    aria-expanded="false"
+                    aria-controls="accordion-collapse-body-6"
                 >
-                    <span>{$title}</span>
+                    <span>Do I need a designer to use Techwind ?</span>
                     <svg
                         data-accordion-icon
-                        class="w-4 h-4 rotate-180 shrink-0"
+                        class="w-4 h-4 shrink-0"
                         fill="currentColor"
                         viewBox="0 0 20 20"
                         xmlns="http://www.w3.org/2000/svg"
@@ -28,12 +29,15 @@
                 </button>
             </h2>
             <div
-                id="{$textId}"
+                id="accordion-collapse-body-6"
                 class="hidden"
-                aria-labelledby="{titleId}"
+                aria-labelledby="accordion-collapse-heading-6"
             >
                 <div class="p-5">
-                    <p class="text-slate-400 dark:text-gray-400">{$text}</p>
+                    <p class="text-slate-400 dark:text-gray-400">There are many variations of passages of Lorem Ipsum
+                        available, but the majority have suffered alteration in some form.</p>
                 </div>
             </div>
         </div>
+
+   
