@@ -6,14 +6,14 @@
 {block name=section1}
 <!-- Start Section-->
     <div class="container">
-        <div class="grid grid-cols-1 pb-8 text-center">
+        <div class="grid grid-cols-1 text-center">
             <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Who We Are</h3>
 
             <p class="text-slate-400 max-w-xl mx-auto">Learn More About Puinvestment: Our Team, Our Values, and Our Vision for the Future
             </p>
         </div>
         <div class="grid lg:grid-cols-12 md:grid-cols-2 grid-cols-1 gap-[30px] mt-10">
-            <div class="p-6 shadow-xl shadow-gray-100 dark:shadow-gray-800 transition duration-500 rounded-2xl mt-6">
+            <div class="p-6 shadow-xl shadow-gray-200 dark:shadow-gray-800 transition duration-500 rounded-2xl border-t">
                 <div class="lg:col-span-12">
                     <!-- Content -->
                     <div class="text-center md:px-6">
