@@ -140,6 +140,7 @@
     </div>
     <!--end grid-->
 </div>
+{/block}
 
 {block name=section4}
     <div class="container md:mt-24 mt-16">
