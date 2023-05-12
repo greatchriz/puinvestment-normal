@@ -81,6 +81,7 @@
 {/block}
 
 {block name=section2}
+<section class="relative md:py-24 py-16">
 <div class="container">
         <div class="grid grid-cols-1 pb-8 text-center">
             <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
@@ -101,6 +102,7 @@
         </div>
         <!--end grid-->
 </div>
+</section>
 
 {/block}
 
