@@ -6,11 +6,15 @@
 {block name=section1}
 <!-- Start Section-->
     <div class="container">
-        <div class="grid grid-cols-1">
-            <h5 class="text-2xl font-semibold">Who we are?</h5>
+        <div class="grid grid-cols-1 pb-8 text-center">
+            <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Who We Are</h3>
+
+            <p class="text-slate-400 max-w-xl mx-auto">Learn More About Puinvestment: Our Team, Our Values, and Our Vision for the Future
+            </p>
         </div>
         <div class="grid lg:grid-cols-12 md:grid-cols-2 grid-cols-1 gap-[30px] mt-10">
-                <div class="lg:col-span-4">
+            <div class="p-6 shadow-xl shadow-gray-100 dark:shadow-gray-800 transition duration-500 rounded-2xl mt-6">
+                <div class="lg:col-span-12">
                     <!-- Content -->
                     <div class="text-center md:px-6">
                         <div class="content mt-7">
@@ -40,61 +44,11 @@
                     </div>
                     <!-- Content -->
                 </div>
+            </div>
            
         </div><!--end grid-->
     </div>
-    <div class="container">
-        
-        <div class="grid lg:grid-cols-12 md:grid-cols-2 grid-cols-1 gap-[30px] mt-10">
-                <div class="lg:col-span-4">
-                    <!-- Content -->
-                    <div class="text-center md:px-6">
-                        <div class="w-28 h-28 bg-indigo-600/5 text-indigo-600 rounded-3xl text-4xl flex align-middle justify-center items-center shadow-sm dark:shadow-gray-800 mx-auto">
-                            <i class="uil uil-airplay"></i>
-                        </div>
 
-                        <div class="content mt-7">
-                            <a href="page-services.html" class="title h5 text-lg font-medium hover:text-indigo-600">Digital Marketing</a>
-                            <p class="text-slate-400 mt-3">The phrasal sequence of the Lorem Ipsum text is now so that many</p>
-                        </div>
-                    </div>
-                    <!-- Content -->
-                </div>
-                <div class="lg:ms-5">
-                    <div class="flex mb-4">
-                        <span class="text-indigo-600 text-2xl font-bold mb-0"><span class="counter-value text-6xl font-bold" data-target="9">1</span>+</span>
-                        <span class="self-end font-medium ms-2">Years <br> Experience</span>
-                    </div>
-
-                    <h3 class="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold">Who we are ?</h3>
-
-                    <p class="text-slate-400 max-w-xl">
-                        Puinvestment is a leading trading and investment firm specializing in digital assets, including cryptocurrency. But how did we get our start? In this article, we'll take a look back at our journey and explore the key moments that shaped our history.
-                    </p>
-                    <p class="text-slate-400 max-w-xl">It all started in 2014, when a group of cryptocurrency enthusiasts came together to explore the potential of digital assets. At the time, the digital asset market was still in its infancy, and many people were skeptical of its potential. But we saw something different: we saw an opportunity.</p>
-
-                    <p class="text-slate-400 max-w-xl">Over the next few years, we worked tirelessly to build a platform that could help people invest in digital assets. We focused on developing a user-friendly trading platform that could provide our clients with access to a wide range of digital assets, as well as the tools and resources they needed to make informed investment decisions.</p>
-
-                    <p class="text-slate-400 max-w-xl">Our efforts paid off, and by 2017, we had become a trusted name in the digital asset market. That year, we launched our investment management services, which were designed to help our clients build diversified portfolios of digital assets that aligned with their investment goals and risk tolerance.</p>
-
-                    <p class="text-slate-400 max-w-xl">
-                        Since then, we've continued to grow and evolve, staying ahead of the curve in the rapidly changing digital asset market. We've expanded our offerings to include consulting services, helping businesses and individuals navigate the complexities of the digital asset market and develop investment strategies that work for them.
-                    </p>
-
-                    <p class="text-slate-400 max-w-xl">
-                        But even as we've grown, we've never lost sight of our core values. We believe in putting our clients first, and we're committed to providing them with the highest level of service and support. We believe in doing business with integrity, and we're committed to transparency and accountability in everything we do.
-                    </p>
-
-                    <p class="text-slate-400 max-w-xl">
-                        Looking back at our journey, it's clear that we've come a long way since our early days as cryptocurrency enthusiasts. But we're just getting started. We believe that the digital asset market still has a lot of potential, and we're committed to helping our clients unlock that potential through innovative investment strategies and a relentless focus on their needs.
-                    </p>
-                
-                    <div class="mt-6">
-                        <a href="?a=deposit" class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md me-2 mt-2"><i class="uil uil-envelope"></i> Contact us</a>
-                    </div>
-                </div>
-        </div><!--end grid-->
-    </div>
 {/block}
 
 {block name=section2}
