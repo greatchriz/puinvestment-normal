@@ -16,24 +16,24 @@
 
                     <h3 class="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold">Who we are ?</h3>
 
-                    <p class="text-slate-400 max-w-xl">
+                    <p class="text-slate-400 max-w-xl mb-4">
                         Puinvestment is a leading trading and investment firm specializing in digital assets, including cryptocurrency. But how did we get our start? In this article, we'll take a look back at our journey and explore the key moments that shaped our history.
                     </p>
-                    <p class="text-slate-400 max-w-xl">It all started in 2014, when a group of cryptocurrency enthusiasts came together to explore the potential of digital assets. At the time, the digital asset market was still in its infancy, and many people were skeptical of its potential. But we saw something different: we saw an opportunity.</p>
+                    <p class="text-slate-400 max-w-xl mb-4">It all started in 2014, when a group of cryptocurrency enthusiasts came together to explore the potential of digital assets. At the time, the digital asset market was still in its infancy, and many people were skeptical of its potential. But we saw something different: we saw an opportunity.</p>
 
-                    <p class="text-slate-400 max-w-xl">Over the next few years, we worked tirelessly to build a platform that could help people invest in digital assets. We focused on developing a user-friendly trading platform that could provide our clients with access to a wide range of digital assets, as well as the tools and resources they needed to make informed investment decisions.</p>
+                    <p class="text-slate-400 max-w-xl mb-4">Over the next few years, we worked tirelessly to build a platform that could help people invest in digital assets. We focused on developing a user-friendly trading platform that could provide our clients with access to a wide range of digital assets, as well as the tools and resources they needed to make informed investment decisions.</p>
 
-                    <p class="text-slate-400 max-w-xl">Our efforts paid off, and by 2017, we had become a trusted name in the digital asset market. That year, we launched our investment management services, which were designed to help our clients build diversified portfolios of digital assets that aligned with their investment goals and risk tolerance.</p>
+                    <p class="text-slate-400 max-w-xl mb-4">Our efforts paid off, and by 2017, we had become a trusted name in the digital asset market. That year, we launched our investment management services, which were designed to help our clients build diversified portfolios of digital assets that aligned with their investment goals and risk tolerance.</p>
 
-                    <p class="text-slate-400 max-w-xl">
+                    <p class="text-slate-400 max-w-xl mb-4">
                         Since then, we've continued to grow and evolve, staying ahead of the curve in the rapidly changing digital asset market. We've expanded our offerings to include consulting services, helping businesses and individuals navigate the complexities of the digital asset market and develop investment strategies that work for them.
                     </p>
 
-                    <p class="text-slate-400 max-w-xl">
+                    <p class="text-slate-400 max-w-xl mb-4">
                         But even as we've grown, we've never lost sight of our core values. We believe in putting our clients first, and we're committed to providing them with the highest level of service and support. We believe in doing business with integrity, and we're committed to transparency and accountability in everything we do.
                     </p>
 
-                    <p class="text-slate-400 max-w-xl">
+                    <p class="text-slate-400 max-w-xl mb-4">
                         Looking back at our journey, it's clear that we've come a long way since our early days as cryptocurrency enthusiasts. But we're just getting started. We believe that the digital asset market still has a lot of potential, and we're committed to helping our clients unlock that potential through innovative investment strategies and a relentless focus on their needs.
                     </p>
                 
@@ -47,13 +47,13 @@
 {/block}
 
 {block name=section2}
-    <div class="container">
+<div class="container md:mt-24 mt-16">
         <div class="grid grid-cols-1 pb-8 text-center">
             <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
 
             <p class="text-slate-400 max-w-xl mx-auto">Transparency, Client Service, and Long-Term Thinking are  Our Core Values at Puinvestment.</p>
         </div>
-        <div class="grid lg:grid-cols-12 grid-cols-1" id="reserve-form">
+        <div class="grid lg:grid-cols-12 grid-cols-1 gap-6" id="reserve-form">
             <div class="lg:col-start-2 lg:col-span-10">
                 <h5 class="mb-4 font-medium text-xl">Description:</h5>
 
