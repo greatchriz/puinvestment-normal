@@ -1,7 +1,7 @@
 {extends file="page_layout.tpl"}
 
 {block name=hero}
-    {include file="sections/hero.tpl" pagenamee="About Us" image="https://puinvestment.org/images/banner/about.png"}
+    {include file="sections/hero.tpl" pagenamee="Partnership" image="https://puinvestment.org/images/banner/partnership.png"}
 {/block}
 
 {block name=section1}
