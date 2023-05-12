@@ -6,7 +6,7 @@
     <div class="container">
         <div class="grid grid-cols-1 pb-8 text-center mt-10">
             <h3 class="md:text-4xl text-3xl md:leading-normal tracking-wide leading-normal font-medium text-white">
-                {$Page}</h3>
+                {$pagenamee}</h3>
         </div>
         <!--end grid-->
     </div>
@@ -16,7 +16,7 @@
         <ul class="breadcrumb tracking-[0.5px] breadcrumb-light mb-0 inline-block">
             <li class="inline breadcrumb-item uppercase text-[13px] font-bold duration-500 ease-in-out text-white/50 hover:text-white">
                 <a href="/">Puinvestment</a></li>
-            <li class="inline breadcrumb-item uppercase text-[13px] font-bold duration-500 ease-in-out text-white" aria-current="page">{$Page}</li>
+            <li class="inline breadcrumb-item uppercase text-[13px] font-bold duration-500 ease-in-out text-white" aria-current="page">{$pagenamee}</li>
         </ul>
     </div>
 </section>
