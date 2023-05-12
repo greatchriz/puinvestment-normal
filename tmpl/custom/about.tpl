@@ -5,59 +5,43 @@
 {/block}
 {block name=section1}
 <!-- Start Section-->
-    <section class="relative md:py-24 py-16">
-        <div class="container">
-            <div class="grid md:grid-cols-12 grid-cols-1 items-center gap-[30px]">
-                <div class="lg:col-span-12 md:col-span-12">
-                    <div class="lg:ms-5">
-                        <div class="flex mb-4">
-                            <span class="text-indigo-600 text-2xl font-bold mb-0"><span class="counter-value text-6xl font-bold" data-target="15">1</span>+</span>
-                            <span class="self-end font-medium ms-2">Years <br> Experience</span>
+    <div class="container">
+        <div class="grid md:grid-cols-12 grid-cols-1 items-center gap-[30px]">
+            <div class="lg:col-span-5 md:col-span-6">
+                <div class="grid grid-cols-12 gap-6 items-center">
+                    <div class="col-span-6">
+                        <div class="grid grid-cols-1 gap-6">
+                            <img src="assets/images/about/ab03.jpg" class="shadow rounded-md" alt="">
+                            <img src="assets/images/about/ab02.jpg" class="shadow rounded-md" alt="">
                         </div>
+                    </div>
 
-                        <h3 class="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold">Who we are ?</h3>
-
-                        <p class="text-slate-400 max-w-xl">Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.</p>
-                    
-                        <div class="mt-6">
-                            <a href="contact-one.html" class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md me-2 mt-2"><i class="uil uil-envelope"></i> Contact us</a>
+                    <div class="col-span-6">
+                        <div class="grid grid-cols-1 gap-6">
+                            <img src="assets/images/about/ab01.jpg" class="shadow rounded-md" alt="">
                         </div>
                     </div>
                 </div>
-            </div><!--end grid-->
-        </div><!--end container-->
-        
-        <!-- Business Partner -->
-        <div class="container mt-8">
-            <div class="grid md:grid-cols-6 grid-cols-2 justify-center gap-[30px]">
-                <div class="mx-auto mt-8">
-                    <img src="assets/images/client/amazon.svg" class="h-6" alt="">
-                </div>
+            </div>
 
-                <div class="mx-auto mt-8">
-                    <img src="assets/images/client/google.svg" class="h-6" alt="">
-                </div>
+            <div class="lg:col-span-7 md:col-span-6">
+                <div class="lg:ms-5">
+                    <div class="flex mb-4">
+                        <span class="text-indigo-600 text-2xl font-bold mb-0"><span class="counter-value text-6xl font-bold" data-target="15">1</span>+</span>
+                        <span class="self-end font-medium ms-2">Years <br> Experience</span>
+                    </div>
+
+                    <h3 class="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold">Who we are ?</h3>
+
+                    <p class="text-slate-400 max-w-xl">Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content.</p>
                 
-                <div class="mx-auto mt-8">
-                    <img src="assets/images/client/lenovo.svg" class="h-6" alt="">
+                    <div class="mt-6">
+                        <a href="contact-one.html" class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md me-2 mt-2"><i class="uil uil-envelope"></i> Contact us</a>
+                    </div>
                 </div>
-                
-                <div class="mx-auto mt-8">
-                    <img src="assets/images/client/paypal.svg" class="h-6" alt="">
-                </div>
-                
-                <div class="mx-auto mt-8">
-                    <img src="assets/images/client/shopify.svg" class="h-6" alt="">
-                </div>
-                
-                <div class="mx-auto mt-8">
-                    <img src="assets/images/client/spotify.svg" class="h-6" alt="">
-                </div>
-            </div><!--end grid-->
-        </div><!--end container-->
-        <!-- Business Partner -->
-    </section><!--end section-->
-    <!-- End Section-->
+            </div>
+        </div><!--end grid-->
+    </div>
 {/block}
 
 {block name=section2}
@@ -404,6 +388,18 @@
             </div>
         </div><!--end grid-->
     </div><!--end container-->
+{/block}
+
+{block name=section5}
+<div class="container md:mt-24 mt-16">
+    <div class="grid grid-cols-1 pb-8 text-center">
+        <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Office Location</h3>
+
+        <p class="text-slate-400 max-w-xl mx-auto">Our office is located at: <strong>Schulstr. 12 b, D-61479 Glashütten, Germany.</strong></p>
+    </div>
+    <!--end grid-->
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49531.97368196144!2d8.341958829469506!3d50.20673892372143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bdaff18717ff09%3A0x1c224353694a9c70!2s61479%20Glash%C3%BCtten%2C%20Germany!5e0!3m2!1sen!2sng!4v1683864305779!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {/block}
 
 
