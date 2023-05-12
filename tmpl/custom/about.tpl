@@ -81,7 +81,7 @@
 {/block}
 
 {block name=section2}
-<div class="container">
+<div class="container p-6">
     <div class="grid grid-cols-1 pb-8 text-center">
         <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
 
@@ -127,7 +127,7 @@
 
 
 {block name=section3}
-<div class="container">
+<div class="container p-6">
     <div class="grid grid-cols-1 pb-8 text-center">
         <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
 
