@@ -83,24 +83,46 @@
 {block name=section2}
 <section class="relative md:py-24 py-16">
 <div class="container">
-        <div class="grid grid-cols-1 pb-8 text-center">
-            <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
+    <div class="grid grid-cols-1 pb-8 text-center">
+        <h3 class="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Our Philosophy</h3>
 
-            <p class="text-slate-400 max-w-xl mx-auto">Transparency, Client Service, and Long-Term Thinking are Our Core
-                Values at Puinvestment.</p>
-        </div>
-        <div class="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-[30px]">
-            {include file="sections/about/philosophy.tpl"}
+        <p class="text-slate-400 max-w-xl mx-auto">Transparency, Client Service, and Long-Term Thinking are Our Core
+            Values at Puinvestment.</p>
+    </div>
+    <div class="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-[30px]">
+        {include file="sections/about/philosophy.tpl" title="Transparency" body=" At Puinvestment, we believe that transparency is key to building trust and strong relationships with our clients. That's why we are committed to providing clear and detailed information about our investment and trading strategies, as well as regular updates on performance and market conditions." image="assets/images/blog/transparency.jpg"}
 
-            {include file="sections/about/philosophy.tpl"}
+        {include 
+            file="sections/about/philosophy.tpl"
+            title="Client Service"
+            body="We understand that our clients' success is our success. That's why we are dedicated to providing exceptional client service, including personalized investment advice, responsive support, and a deep understanding of each client's unique needs and goals."
+            image="assets/images/blog/client-service.jpg"
+        }
 
-            {include file="sections/about/philosophy.tpl"}
+        {include 
+            file="sections/about/philosophy.tpl"
+            title="Long-Term Thinking"
+            body="We believe that the best way to achieve long-term success is to take a long-term approach. That's why we are committed to building long-term relationships with our clients, and why we are committed to investing in the future of the digital asset market."
+            image="assets/images/blog/long-term-thinking.jpg"
+        }
 
-            {include file="sections/about/philosophy.tpl"}
+        {include 
+            file="sections/about/philosophy.tpl"
+            title="Innovation"
+            body="The digital asset space is constantly evolving, and we believe that it's essential to stay ahead of the curve. That's why we are committed to continuous innovation, exploring new technologies and strategies that can help us deliver better results for our clients."
+            image="assets/images/blog/innovation.jpg"
+        }
+
+        {include 
+            file="sections/about/philosophy.tpl"
+            title="Risk Management"
+            body="Investing in digital assets can be volatile and unpredictable, and managing risk is essential for long-term success. That's why we take a proactive approach to risk management, using sophisticated tools and techniques to help minimize risk and protect our clients' investments."
+            image="assets/images/blog/risk-management.jpg"
+        }
 
 
-        </div>
-        <!--end grid-->
+    </div>
+    <!--end grid-->
 </div>
 </section>
 
