@@ -101,6 +101,15 @@
                     </a>
                 </li>
 
+                <li>
+                    <a
+                        href="{"?a=partnership"|encurl}"
+                        class="sub-menu-item"
+                    >S
+                       Partnership
+                    </a>
+                </li>
+
                 {if $userinfo.logged != 1}
 
                     <li>
