@@ -1,16 +1,16 @@
 <div class="relative shadow dark:shadow-gray-800 rounded-md overflow-hidden">
     <h2
         class="text-base font-semibold"
-        id="accordion-collapse-heading-5"
+        id="{$accordionHeading}"
     >
         <button
             type="button"
             class="flex justify-between items-center p-5 w-full font-medium ltr:text-left rtl:text-right"
-            data-accordion-target="#accordion-collapse-body-5"
+            data-accordion-target="{$accordionHash}"
             aria-expanded="true"
-            aria-controls="accordion-collapse-body-5"
+            aria-controls="{$accordionBody}"
         >
-            <span>How do I invest in Puinvestment?
+            <span>{$title}
             </span>
             <svg
                 data-accordion-icon
@@ -28,12 +28,12 @@
         </button>
     </h2>
     <div
-        id="accordion-collapse-body-5"
+        id="{$accordionBody}"
         class="hidden"
-        aria-labelledby="accordion-collapse-heading-5"
+        aria-labelledby="{$accordionHeading}"
     >
         <div class="p-5">
-            <p class="text-slate-400 dark:text-gray-400">To make a investment you must first become a member of  Puinvestment, by registering in the company. Once you are signed up, you can make your deposits. You can login using the member username and password you receive when signup</p>
+            <p class="text-slate-400 dark:text-gray-400">{$content}</p>
         </div>
     </div>
 </div>
