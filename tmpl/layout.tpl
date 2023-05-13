@@ -117,8 +117,7 @@
                                             alt=""
                                         >
                                     </a>
-                                    <p class="mt-6 text-gray-300">Start working with Tailwind CSS that can provide
-                                        everything you need to generate awareness, drive traffic, connect.</p>
+                                    <p class="mt-6 text-gray-300">With decades of trading experience across a variety of assets we know what it takes to become successful in the trading markets.</p>
                                     <ul class="list-none mt-6">
                                         <li class="inline"><a
                                                 href="https://1.envato.market/techwind"
@@ -200,96 +199,53 @@
                                     <h5 class="tracking-[1px] text-gray-100 font-semibold">Company</h5>
                                     <ul class="list-none footer-list mt-6">
                                         <li><a
-                                                href="page-aboutus.html"
+                                                href="?a=about"
                                                 class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
                                             ><i class="uil uil-angle-right-b"></i> About us</a></li>
                                         <li class="mt-[10px]"><a
-                                                href="page-services.html"
+                                                href="?a=faq"
                                                 class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
-                                            ><i class="uil uil-angle-right-b"></i> Services</a></li>
+                                            ><i class="uil uil-angle-right-b"></i> F.A.Q</a></li>
                                         <li class="mt-[10px]"><a
-                                                href="page-team.html"
+                                                href="?a=support"
                                                 class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
-                                            ><i class="uil uil-angle-right-b"></i> Team</a></li>
+                                            ><i class="uil uil-angle-right-b"></i> Contact Us</a></li>
                                         <li class="mt-[10px]"><a
-                                                href="page-pricing.html"
+                                                href="?a=partnership"
                                                 class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
-                                            ><i class="uil uil-angle-right-b"></i> Pricing</a></li>
+                                            ><i class="uil uil-angle-right-b"></i> Partnership</a></li>
+                                     
                                         <li class="mt-[10px]"><a
-                                                href="portfolio-creative-four.html"
+                                                href="?a=signup"
                                                 class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
-                                            ><i class="uil uil-angle-right-b"></i> Project</a></li>
+                                            ><i class="uil uil-angle-right-b"></i> Sign up</a></li>
                                         <li class="mt-[10px]"><a
-                                                href="blog.html"
-                                                class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
-                                            ><i class="uil uil-angle-right-b"></i> Blog</a></li>
-                                        <li class="mt-[10px]"><a
-                                                href="auth-login.html"
+                                                href="?a=login"
                                                 class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
                                             ><i class="uil uil-angle-right-b"></i> Login</a></li>
                                     </ul>
                                 </div>
                                 <!--end col-->
-
+                                 
                                 <div class="lg:col-span-3 md:col-span-4">
-                                    <h5 class="tracking-[1px] text-gray-100 font-semibold">Usefull Links</h5>
-                                    <ul class="list-none footer-list mt-6">
-                                        <li><a
-                                                href="page-terms.html"
-                                                class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
-                                            ><i class="uil uil-angle-right-b"></i> Terms of Services</a></li>
-                                        <li class="mt-[10px]"><a
-                                                href="page-privacy.html"
-                                                class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
-                                            ><i class="uil uil-angle-right-b"></i> Privacy Policy</a></li>
-                                        <li class="mt-[10px]"><a
-                                                href="documentation.html"
-                                                class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
-                                            ><i class="uil uil-angle-right-b"></i> Documentation</a></li>
-                                        <li class="mt-[10px]"><a
-                                                href="changelog.html"
-                                                class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
-                                            ><i class="uil uil-angle-right-b"></i> Changelog</a></li>
-                                        <li class="mt-[10px]"><a
-                                                href="widget.html"
-                                                class="text-gray-300 hover:text-gray-400 duration-500 ease-in-out"
-                                            ><i class="uil uil-angle-right-b"></i> Widget</a></li>
-                                    </ul>
-                                </div>
-                                <!--end col-->
-
-                                <div class="lg:col-span-3 md:col-span-4">
-                                    <h5 class="tracking-[1px] text-gray-100 font-semibold">Newsletter</h5>
-                                    <p class="mt-6">Sign up and receive the latest tips via email.</p>
-                                    <form>
-                                        <div class="grid grid-cols-1">
-                                            <div class="foot-subscribe my-3">
-                                                <label class="form-label">Write your email <span
-                                                        class="text-red-600">*</span></label>
-                                                <div class="form-icon relative mt-2">
-                                                    <i
-                                                        data-feather="mail"
-                                                        class="w-4 h-4 absolute top-3 start-4"
-                                                    ></i>
-                                                    <input
-                                                        type="email"
-                                                        class="form-input bg-gray-800 border border-gray-800 text-gray-100 ps-12 focus:shadow-none"
-                                                        placeholder="Email"
-                                                        name="email"
-                                                        required=""
-                                                    >
+                                    <h5 class="tracking-[1px] text-gray-100 font-semibold">Contact Info</h5>
+                                        <div class="mt-6">
+                                            <div class="flex items-center">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail fea icon-ex-md text-slate-400 me-3"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                                                <div class="flex-1">
+                                                    <h6 class="text-indigo-600 dark:text-white font-medium mb-0">Email :</h6>
+                                                    <a href="#" class="text-slate-400">support@puinvestment.org</a>
                                                 </div>
                                             </div>
-
-                                            <button
-                                                type="submit"
-                                                id="submitsubscribe"
-                                                name="send"
-                                                class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md"
-                                            >Subscribe</button>
+                                            <div class="flex items-center mt-3">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map-pin fea icon-ex-md text-slate-400 me-3"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                                                <div class="flex-1">
+                                                    <h6 class="text-indigo-600 dark:text-white font-medium mb-0">Location :</h6>
+                                                    <a href="#" class="text-slate-400">Schulstr. 12 b, D-61479 Glashütten, Germany</a>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </form>
-                                </div>
+                                    </div>
                                 <!--end col-->
                             </div>
                             <!--end grid-->
