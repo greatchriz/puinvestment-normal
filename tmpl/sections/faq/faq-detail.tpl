@@ -49,7 +49,7 @@
         <button
             type="button"
             class="flex justify-between items-center p-5 w-full font-medium ltr:text-left rtl:text-right"
-            data-accordion-target="{$accordionHash}"
+            data-accordion-target="#{$accordionBody}"
             aria-expanded="true"
             aria-controls="{$accordionBody}" 
             >

@@ -34,12 +34,6 @@
                     body_id
                     title
                     body *}
-
-                    
-                        
-                        
-                        
-                        
                         
                     {include file="sections/faq/faq-detail.tpl" accordionHeading="accordion-collapse-heading-5" accordionHash="#accordion-collapse-body-5" accordionBody="accordion-collapse-body-5" title="How do I invest in Puinvestment?" content="To make a investment you must first become a member of  Puinvestment, by registering in the company. Once you are signed up, you can make your deposits. You can login using the member username and password you receive when signup"}
                     </div>
