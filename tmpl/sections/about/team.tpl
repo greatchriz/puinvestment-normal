@@ -30,7 +30,7 @@
                                             <div class="mt-8">
                                                 <div class="section-title text-md-start">
                                                     <p class="text-white/50 max-w-xl mx-auto mb-2">Start working with Techwind that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                                                    <a href="#" class="text-white">Read More <i class="uil uil-angle-right-b align-middle"></i></a>
+                                                    <a href="?a=home" class="text-white">Read More <i class="uil uil-angle-right-b align-middle"></i></a>
                                                 </div>
                                             </div>
                                         </div>

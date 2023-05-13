@@ -156,14 +156,6 @@
                 </div>
                 <!--end grid-->
 
-                <div class="grid grid-cols-1 justify-center">
-                    <div class="mt-6 text-center">
-                        <a
-                            href="page-services.html"
-                            class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md me-2 mt-2"
-                        >See More <i class="uil uil-arrow-right"></i></a>
-                    </div>
-                </div>
             </div>
             <!--end contanier-->
         </section>

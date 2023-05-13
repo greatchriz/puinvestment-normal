@@ -510,31 +510,31 @@ echo $_smarty_tpl->getInlineSubTemplate("sections/about/testimonials.tpl", $_sma
                         </div>
 
                         <ul class="list-none ltr:md:text-right rtl:md:text-left text-center mt-6 md:mt-0">
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/american-ex.png"
                                         class="max-h-6 inline"
                                         title="American Express"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/discover.png"
                                         class="max-h-6 inline"
                                         title="Discover"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/master-card.png"
                                         class="max-h-6 inline"
                                         title="Master Card"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/paypal.png"
                                         class="max-h-6 inline"
                                         title="Paypal"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/visa.png"
                                         class="max-h-6 inline"
                                         title="Visa"
@@ -660,7 +660,7 @@ $_smarty_tpl->properties['nocache_hash'] = '4388325786459e52a7aa2b9_18185306';
         <div class="absolute text-center z-10 bottom-5 start-0 end-0 mx-3">
             <ul class="breadcrumb tracking-[0.5px] mb-0 inline-block">
                 <li class="inline breadcrumb-item uppercase text-[13px] font-bold duration-500 ease-in-out hover:text-indigo-600"><a href="index.html">Techwind</a></li>
-                <li class="inline breadcrumb-item uppercase text-[13px] font-bold duration-500 ease-in-out hover:text-indigo-600"><a href="#">Docs</a></li>
+                <li class="inline breadcrumb-item uppercase text-[13px] font-bold duration-500 ease-in-out hover:text-indigo-600"><a href="?a=home">Docs</a></li>
                 <li class="inline breadcrumb-item uppercase text-[13px] font-bold text-indigo-600" aria-current="page">Widget</li>
             </ul>
         </div>

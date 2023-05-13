@@ -530,31 +530,31 @@ echo $_smarty_tpl->getInlineSubTemplate("sections/home/plans.tpl", $_smarty_tpl-
                         </div>
 
                         <ul class="list-none ltr:md:text-right rtl:md:text-left text-center mt-6 md:mt-0">
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/american-ex.png"
                                         class="max-h-6 inline"
                                         title="American Express"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/discover.png"
                                         class="max-h-6 inline"
                                         title="Discover"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/master-card.png"
                                         class="max-h-6 inline"
                                         title="Master Card"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/paypal.png"
                                         class="max-h-6 inline"
                                         title="Paypal"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/visa.png"
                                         class="max-h-6 inline"
                                         title="Visa"

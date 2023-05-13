@@ -15,7 +15,7 @@
         </div>
 
         <div class="mt-6">
-            <a href="#" class="text-lg font-medium group-hover:text-white transition-all duration-500 ease-in-out">{$title}</a>
+            <a href="?a=home" class="text-lg font-medium group-hover:text-white transition-all duration-500 ease-in-out">{$title}</a>
             <p class="text-slate-400 group-hover:text-white/50 transition-all duration-500 ease-in-out mt-3">{$body}</p>
         </div>
     </div>

@@ -234,14 +234,14 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail fea icon-ex-md text-slate-400 me-3"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
                                                 <div class="flex-1">
                                                     <h6 class="text-indigo-600 dark:text-white font-medium mb-0">Email :</h6>
-                                                    <a href="#" class="text-slate-400">support@puinvestment.org</a>
+                                                    <a href="?a=home" class="text-slate-400">support@puinvestment.org</a>
                                                 </div>
                                             </div>
                                             <div class="flex items-center mt-3">
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map-pin fea icon-ex-md text-slate-400 me-3"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
                                                 <div class="flex-1">
                                                     <h6 class="text-indigo-600 dark:text-white font-medium mb-0">Location :</h6>
-                                                    <a href="#" class="text-slate-400">Schulstr. 12 b, D-61479 Glashütten, Germany</a>
+                                                    <a href="?a=home" class="text-slate-400">Schulstr. 12 b, D-61479 Glashütten, Germany</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -261,41 +261,35 @@
                 <div class="container text-center">
                     <div class="grid md:grid-cols-2 items-center">
                         <div class="ltr:md:text-left rtl:md:text-right text-center">
-                            <p class="mb-0">© <script>
-                                    document.write(new Date().getFullYear())
-                                </script> Techwind. Design with <i class="mdi mdi-heart text-red-600"></i> by <a
-                                    href="https://shreethemes.in/"
-                                    target="_blank"
-                                    class="text-reset"
-                                >Shreethemes</a>.</p>
+                            <p class="mb-0"> 2023 © Puinvestment.org All Rights Reserved.</p>
                         </div>
 
                         <ul class="list-none ltr:md:text-right rtl:md:text-left text-center mt-6 md:mt-0">
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/american-ex.png"
                                         class="max-h-6 inline"
                                         title="American Express"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/discover.png"
                                         class="max-h-6 inline"
                                         title="Discover"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/master-card.png"
                                         class="max-h-6 inline"
                                         title="Master Card"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/paypal.png"
                                         class="max-h-6 inline"
                                         title="Paypal"
                                         alt=""
                                     ></a></li>
-                            <li class="inline"><a href="#"><img
+                            <li class="inline"><a href="?a=home"><img
                                         src="assets/images/payments/visa.png"
                                         class="max-h-6 inline"
                                         title="Visa"

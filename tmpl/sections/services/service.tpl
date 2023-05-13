@@ -20,7 +20,7 @@
                             <p class="text-slate-400 mt-4">We develop digital strategies, products and services appreciated by clients.</p>
 
                             <div class="mt-4">
-                                <a href="#" class="btn btn-link hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out">Read More <i class="uil uil-arrow-right align-middle"></i></a>
+                                <a href="?a=home" class="btn btn-link hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out">Read More <i class="uil uil-arrow-right align-middle"></i></a>
                             </div>
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                             <p class="text-slate-400 mt-4">We develop digital strategies, products and services appreciated by clients.</p>
 
                             <div class="mt-4">
-                                <a href="#" class="btn btn-link hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out">Read More <i class="uil uil-arrow-right align-middle"></i></a>
+                                <a href="?a=home" class="btn btn-link hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out">Read More <i class="uil uil-arrow-right align-middle"></i></a>
                             </div>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
                             <p class="text-slate-400 mt-4">We develop digital strategies, products and services appreciated by clients.</p>
 
                             <div class="mt-4">
-                                <a href="#" class="btn btn-link hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out">Read More <i class="uil uil-arrow-right align-middle"></i></a>
+                                <a href="?a=home" class="btn btn-link hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out">Read More <i class="uil uil-arrow-right align-middle"></i></a>
                             </div>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                         <div class="lg:ms-4">
                             <h4 class="mb-6 md:text-3xl text-2xl lg:leading-normal leading-normal font-medium">We are the largest <br> Business expert </h4>
                             <p class="text-slate-400 max-w-xl">Start working with Tailwind CSS that can provide everything you need to generate awareness, drive traffic, connect. Dummy text is text that is used in the publishing industry or by web designers to occupy the space which will later be filled with 'real' content. This is required when, for example, the final text is not yet available. Dummy texts have been in use by typesetters since the 16th century.</p>
-                            <a href="#" class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md mt-3">Buy Now <i class="mdi mdi-chevron-right align-middle"></i></a>
+                            <a href="?a=home" class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md mt-3">Buy Now <i class="mdi mdi-chevron-right align-middle"></i></a>
                         </div>
                     </div><!--end col-->
                 </div><!--end grid-->
@@ -196,7 +196,7 @@
 
                 <div class="grid grid-cols-1 justify-center">
                     <div class="mt-6 text-center">
-                        <a href="#" class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out">See More <i class="uil uil-angle-right-b align-middle"></i></a>
+                        <a href="?a=home" class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out">See More <i class="uil uil-angle-right-b align-middle"></i></a>
                     </div>
                 </div>
             </div><!--end contanier-->
