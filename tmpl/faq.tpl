@@ -175,10 +175,6 @@
     content="You can close your East Fortune Investment account anytime you wish. You can easily re-open them if you want to in the future. To close your account, please write to us on Support@puinvestment.org or Speak with an Agent through the customer live support, We strongly recommend you to withdraw all your funds before closing your account. By doing so, your investments will be secured and you'll be ready to leave."
 }
 
-{include 
-    file="sections/faq/faq-detail.tpl" 
-    accordionHeading="accordion-collapse-heading-19" 
-    accordionBody="accordion-collapse-body-19"
 
 
                     </div>
