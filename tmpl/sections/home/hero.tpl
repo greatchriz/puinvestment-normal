@@ -21,7 +21,7 @@
 
                                         <div class="mt-6">
                                             <a
-                                                href="/?a=Signup"
+                                                href="/?a=signup"
                                                 class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md"
                                             >Register</a>
                                         </div>
