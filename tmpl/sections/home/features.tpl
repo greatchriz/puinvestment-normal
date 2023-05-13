@@ -19,13 +19,7 @@
                                       <p class="text-slate-400 mt-3">We offer access to multiple cryptocurrency exchanges to provide users with a wide range of trading options and liquidity.
                                       </p>
 
-                                      <div class="mt-5">
-                                          <a
-                                              href="#"
-                                              class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                                          >Read
-                                              More <i class="uil uil-arrow-right"></i></a>
-                                      </div>
+                                      
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -46,13 +40,7 @@
 
                                       </p>
 
-                                      <div class="mt-5">
-                                          <a
-                                              href="#"
-                                              class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                                          >Read
-                                              More <i class="uil uil-arrow-right"></i></a>
-                                      </div>
+                                      
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -73,13 +61,7 @@
 
                                       </p>
 
-                                      <div class="mt-5">
-                                          <a
-                                              href="#"
-                                              class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                                          >Read
-                                              More <i class="uil uil-arrow-right"></i></a>
-                                      </div>
+                                      
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -100,13 +82,7 @@
 
                                       </p>
 
-                                      <div class="mt-5">
-                                          <a
-                                              href="#"
-                                              class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                                          >Read
-                                              More <i class="uil uil-arrow-right"></i></a>
-                                      </div>
+                                      
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -132,13 +108,7 @@
 
                                       </p>
 
-                                      <div class="mt-5">
-                                          <a
-                                              href="#"
-                                              class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                                          >Read
-                                              More <i class="uil uil-arrow-right"></i></a>
-                                      </div>
+                                      
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -161,13 +131,7 @@
 
                                       </p>
 
-                                      <div class="mt-5">
-                                          <a
-                                              href="#"
-                                              class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                                          >Read
-                                              More <i class="uil uil-arrow-right"></i></a>
-                                      </div>
+                                      
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -189,13 +153,7 @@
 
                                       </p>
 
-                                      <div class="mt-5">
-                                          <a
-                                              href="#"
-                                              class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                                          >Read
-                                              More <i class="uil uil-arrow-right"></i></a>
-                                      </div>
+                                      
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -218,13 +176,7 @@
 
                                       </p>
 
-                                      <div class="mt-5">
-                                          <a
-                                              href="#"
-                                              class="btn btn-link text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-                                          >Read
-                                              More <i class="uil uil-arrow-right"></i></a>
-                                      </div>
+                                      
                                   </div>
                               </div>
                               <!--end feature content-->
