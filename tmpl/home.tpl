@@ -1,19 +1,14 @@
-{extends file="page_layout.tpl"}
-
-{include file="sections/home/hero.tpl"}
+{extends file="layout.tpl"}
 
 
-{block name=section1}
-{include file="sections/home/features.tpl"}
-{/block}
+{block name=section}
 
-{block name=section2}
-{include file="sections/home/key-features.tpl"}
-{/block}
+    {include file="sections/home/hero.tpl"}
+    {include file="sections/home/features.tpl"}
+    {include file="sections/home/key-features.tpl"}
 
-{block name=section3}
     <section class="relative md:py-24 py-16">
         {include file="sections/home/plans.tpl"}
     </section>
+    <!--end section-->
 {/block}
-
