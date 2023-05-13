@@ -6,9 +6,9 @@
         <button
             type="button"
             class="flex justify-between items-center p-5 w-full font-medium ltr:text-left rtl:text-right"
-            data-accordion-target="{$accordionHash}"
+            {* data-accordion-target="{$accordionHash}"
             aria-expanded="true"
-            aria-controls="{$accordionBody}"
+            aria-controls="{$accordionBody}" *}
         >
             <span>{$title}
             </span>
@@ -18,7 +18,7 @@
     <div
         id="{$accordionBody}"
         class="hidden"
-        aria-labelledby="{$accordionHeading}"
+        {* aria-labelledby="{$accordionHeading}" *}
     >
         <div class="p-5">
             <p class="text-slate-400 dark:text-gray-400">{$content}</p>
