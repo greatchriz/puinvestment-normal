@@ -124,9 +124,9 @@
 
                 <div class="mt-6">
                     <a
-                        href="/?a=account"
+                        href="/?a=login"
                         class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md me-2 mt-2"
-                    ><i class="uil uil-master-card"></i> Referal Link</a>
+                    ><i class="uil uil-master-card"></i> Referral Link</a>
                 </div>
             </div>
         </div>
