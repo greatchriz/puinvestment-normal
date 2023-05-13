@@ -175,6 +175,53 @@
     content="You can close your East Fortune Investment account anytime you wish. You can easily re-open them if you want to in the future. To close your account, please write to us on Support@puinvestment.org or Speak with an Agent through the customer live support, We strongly recommend you to withdraw all your funds before closing your account. By doing so, your investments will be secured and you'll be ready to leave."
 }
 
+{include 
+                            file="sections/faq/faq-detail.tpl" 
+                            accordionHeading="accordion-collapse-heading-19" 
+                            accordionBody="accordion-collapse-body-19" 
+                            title="Are there fees for closing an account?" 
+                            content="There are no fees or penalties for closing/deleting your Puinvestment account."
+                        }
+
+{include 
+                            file="sections/faq/faq-detail.tpl" 
+                            accordionHeading="accordion-collapse-heading-20" 
+                            accordionBody="accordion-collapse-body-20" 
+                            title="What is Puinvestment referral program?" 
+                            content="Puinvestment referral program is an exciting opportunity for Company users to claim earnings by inviting their audience & friends. It is one of the many ways we say thank you for your time and effort to help us expand our family. You are involved in every link in the growing chain. For this reason, we have introduced a gradual reward system for you to earn commissions."
+                        }
+
+{include 
+                            file="sections/faq/faq-detail.tpl" 
+                            accordionHeading="accordion-collapse-heading-21" 
+                            accordionBody="accordion-collapse-body-21" 
+                            title="Do I need active investment to earn referral Commissions?" 
+                            content="No, an active investment is not needed for you to get referral commissions."
+                        }
+
+{include 
+                            file="sections/faq/faq-detail.tpl" 
+                            accordionHeading="accordion-collapse-heading-22" 
+                            accordionBody="accordion-collapse-body-22" 
+                            title="How does the Puinvestment referral program work?" 
+                            content="To share your love of Puinvestment, give your personal referral link to friends and family and encourage them to visit our website. Once they register with your referral link and invest, you will get 10% commission from their Puinvestment deposit."
+                        }
+
+{include 
+                            file="sections/faq/faq-detail.tpl" 
+                            accordionHeading="accordion-collapse-heading-23" 
+                            accordionBody="accordion-collapse-body-23" 
+                            title="How much does the Puinvestment referral program offer?" 
+                            content="You would earn a 10% commission on your active referrals."
+                        }
+
+{include 
+                            file="sections/faq/faq-detail.tpl" 
+                            accordionHeading="accordion-collapse-heading-24" 
+                            accordionBody="accordion-collapse-body-24" 
+                            title="What should I do if I can't find the answer to my question?" 
+                            content="If you can't find the answer to your question, please write to us with the help of the 'CONTACT US' form or email us at support@puinvestment.org"
+                        }
 
 
                     </div>
