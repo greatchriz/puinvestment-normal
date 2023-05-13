@@ -21,9 +21,9 @@
 
                                         <div class="mt-6">
                                             <a
-                                                href="/?a=account"
+                                                href="/?a=Signup"
                                                 class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md"
-                                            >Get Started</a>
+                                            >Register</a>
                                         </div>
                                     </div>
                                 </div>
@@ -49,9 +49,9 @@
 
                                         <div class="mt-6">
                                             <a
-                                                href="#"
+                                                href="?a=login"
                                                 class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md"
-                                            >Get Started</a>
+                                            >Login</a>
                                         </div>
                                     </div>
                                 </div>
