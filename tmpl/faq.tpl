@@ -34,8 +34,7 @@
                     body_id
                     title
                     body *}
-                    {include file="sections/faq/faq-detail.tpl" titleId="accordion-collapse-heading-5" textId="accordion-collapse-body-5" title="How does it work ?" text="There are many variations of passages of Lorem Ipsum
-                    available, but the majority have suffered alteration in some form."}
+                    {include file="sections/faq/faq-detail.tpl"}
                     </div>
                 </div>
             </div>
