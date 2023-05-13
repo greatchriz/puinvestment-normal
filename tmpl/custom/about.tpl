@@ -31,7 +31,7 @@
                                 including cryptocurrency. But how did we get our start? In this article, we'll take a
                                 look back at our journey and explore the key moments that shaped our history.
                             </p>
-                            <p class="text-slate-400 mt-3">It all started in 2014, when a group of cryptocurrency
+                            <p class="text-slate-400 mt-3">It all started in 2017, when a group of cryptocurrency
                                 enthusiasts came together to explore the potential of digital assets. At the time, the
                                 digital asset market was still in its infancy, and many people were skeptical of its
                                 potential. But we saw something different: we saw an opportunity.</p>
