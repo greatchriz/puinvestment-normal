@@ -239,12 +239,11 @@
             <h3 class="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold">Have Question ? Get in
                 touch!</h3>
 
-            <p class="text-slate-400 max-w-xl mx-auto">Start working with Tailwind CSS that can provide everything you need
-                to generate awareness, drive traffic, connect.</p>
+            <p class="text-slate-400 max-w-xl mx-auto">Our team of experienced professionals is here to answer your questions and provide guidance on all aspects of digital asset investing and trading. We understand that every client is unique, and we take a personalized approach to every interaction.</p>
 
             <div class="mt-6">
                 <a
-                    href="helpcenter-support.html"
+                    href="?a=support"
                     class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md me-2 mt-2"
                 ><i class="uil uil-phone"></i> Contact us</a>
             </div>
