@@ -7,7 +7,7 @@
 
                     </h3>
 
-                    <p class="text-slate-400 max-w-xl mx-auto">                        Subtitle: Choose the perfect plan that suits your investment goals and earn great returns with us.
+                    <p class="text-slate-400 max-w-xl mx-auto">Choose the perfect plan that suits your investment goals and earn great returns with us.
                     </p>
                 </div>
                 <!--end grid-->
