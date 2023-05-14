@@ -1,7 +1,7 @@
 {extends file="page_layout.tpl"}
 
 {block name=hero}
-    {include file="sections/home/hero/layout.tpl" assign=name var1=value}
+    {include file="sections/home/hero/layout.tpl"}
 {/block}
 
 
