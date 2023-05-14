@@ -42,10 +42,7 @@
     </div>
 
     <div class="p-4">
-        <a
-            href="?a=login"
-            class="px-4 py-1 text-sm font-semibold rounded-full w-full text-slate-400 hover:text-indigo-600 transition-all duration-500 ease-in-out"
-            >Get Started <i class="uil uil-angle-right-b align-middle"></i></a>
+        <a href="/?a=account" class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md mt-3">Invest Now <i class="mdi mdi-chevron-right align-middle"></i></a>
     </div>
 </div>
 <!-- End Price Table -->
