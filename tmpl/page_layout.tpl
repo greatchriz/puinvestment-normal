@@ -105,7 +105,6 @@
 
 
         <!-- Start Section-->
-        <section class="relative md:py-24 py-16">
             {block name=section1}
                 
             {/block}
@@ -145,7 +144,6 @@
             {block name=section10}
                 
             {/block}
-        </section>
         <!--end section-->
         <!-- End Section-->
 

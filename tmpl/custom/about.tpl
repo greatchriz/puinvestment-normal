@@ -5,6 +5,7 @@
 {/block}
 
 {block name=section1}
+<section class="relative md:py-24 py-16">
 <!-- Start Section-->
     <div class="container">
         <div class="p-6 shadow-xl shadow-gray-200 dark:shadow-gray-800 transition duration-500 rounded-2xl border-t">
@@ -78,6 +79,7 @@
             <!--end grid-->
         </div>
     </div>
+</section>
 {/block}
 
 {block name=section2}
