@@ -3,6 +3,8 @@
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     {include file="sections/home/hero/hero.tpl" bgImage="assets/images/corporate/1.jpg" h1Text="Discover the world of <br> business" pText="Launch your campaign and benefit from our expertise on designing and managing conversion centered Tailwind CSS v3.x html page." buttonText="Login" buttonLink="?a=login" }
+
+                    {include file="sections/home/hero/hero.tpl" bgImage="assets/images/corporate/2.jpg" h1Text="Meet our brand <br> new solution" pText="Launch your campaign and benefit from our expertise on designing and managing conversion centered Tailwind CSS v3.x html page" buttonText="Sign Up" buttonLink="?a=signup" }
     
                     {* <div class="swiper-slide flex items-center overflow-hidden">
                         <div class="slide-inner slide-bg-image flex items-center bg-center;" data-background="assets/images/corporate/2.jpg">
