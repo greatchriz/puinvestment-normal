@@ -70,7 +70,7 @@
 
                     <div class="text-center">
                         <span class="text-slate-400 me-2">Remember your password ? </span><a
-                            href="auth-login.html"
+                            href="?a=login"
                             class="text-black dark:text-white font-bold inline-block"
                         >Sign in</a>
                     </div>
