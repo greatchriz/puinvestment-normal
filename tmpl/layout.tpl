@@ -68,6 +68,8 @@
         
         {include file="sections/nav.tpl"}
 
+        {block name=hero}{/block}
+
 
         {block name=section}{/block}
 

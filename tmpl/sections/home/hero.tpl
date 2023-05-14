@@ -6,10 +6,7 @@
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide flex items-center overflow-hidden">
-                        <div
-                            class="slide-inner slide-bg-image flex items-center bg-center;"
-                            data-background="assets/images/corporate/1.jpg"
-                        >
+                            <div class="slide-inner slide-bg-image flex items-center bg-center;" data-background="assets/images/corporate/1.jpg">
                             <div class="absolute inset-0 bg-black/70"></div>
                             <div class="container">
                                 <div class="grid grid-cols-1">
@@ -34,10 +31,7 @@
                     </div> <!-- end swiper-slide -->
 
                     <div class="swiper-slide flex items-center overflow-hidden">
-                        <div
-                            class="slide-inner slide-bg-image flex items-center bg-center;"
-                            data-background="assets/images/corporate/2.jpg"
-                        >
+                            <div class="slide-inner slide-bg-image flex items-center bg-center;" data-background="assets/images/corporate/2.jpg">
                             <div class="absolute inset-0 bg-black/70"></div>
                             <div class="container">
                                 <div class="grid grid-cols-1">
