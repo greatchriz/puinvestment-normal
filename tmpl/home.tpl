@@ -15,6 +15,10 @@
  {include file="sections/home/key-features.tpl"}
 {/block}
 
+{block name=section2}
+ {include file="sections/home/plans.tpl"}
+{/block}
+
 {block name=section3}
      <!-- Start -->
         <section class="relative md:py-24 py-16 md:pt-0 pt-0">
