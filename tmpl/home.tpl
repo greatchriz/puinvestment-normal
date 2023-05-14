@@ -15,11 +15,11 @@
  {include file="sections/home/key-features.tpl"}
 {/block}
 
-{block name=section2}
+{block name=section3}
  {include file="sections/home/plans.tpl"}
 {/block}
 
-{block name=section3}
+{block name=section4}
      <!-- Start -->
         <section class="relative md:py-24 py-16 md:pt-0 pt-0">
             <div class="container">
@@ -68,7 +68,7 @@
         <!-- End -->
 {/block}
 
-{block name=section4}
+{block name=section5}
          <!-- Start -->
             <section class="relative md:py-24 py-16">
                 <div class="container">
