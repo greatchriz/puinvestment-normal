@@ -16,7 +16,7 @@
 {/block}
 
 {block name=section3}
- {include file="sections/home/plans.tpl"}
+ {include file="sections/home/plans/layout.tpl"}
 {/block}
 
 {block name=section4}
