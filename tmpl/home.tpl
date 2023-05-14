@@ -6,6 +6,8 @@
 
 
 {block name=section1}
+
+{include file="sections/home/features/layout.tpl"}
  <!-- FEATURES START -->
     <section class="relative bg-gray-50 dark:bg-slate-800 md:py-24 py-16">
         <div class="container">
