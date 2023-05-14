@@ -46,19 +46,3 @@
 </section>
 <!--end section-->
 <!-- End -->
-    <div class="lg:col-span-5 group border-b-[3px] dark:border-gray-700 relative shadow dark:shadow-gray-800 rounded-md md:scale-110 z-3 bg-white dark:bg-slate-900 p-6">
-        <div class="ltr:lg:text-left rtl:lg:text-right text-center">
-            <h3 class="mb-6 md:text-3xl text-2xl md:leading-normal leading-normal font-semibold">Referral Program
-
-            </h3>
-
-            <p class="text-slate-400 max-w-xl mx-auto">Our referral program is designed to reward our clients for spreading the word about Puinvestment. When you refer someone to us and they become a client, you'll receive a 10% of their first Investment capital.</p>
-
-            <div class="mt-6">
-                <a
-                    href="/?a=login"
-                    class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md me-2 mt-2"
-                ><i class="uil uil-master-card"></i> Referral Link</a>
-            </div>
-        </div>
-    </div>
