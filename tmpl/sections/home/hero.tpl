@@ -1,12 +1,15 @@
         <!-- Start Hero -->
-        <section
+            <section
             class="swiper-slider-hero relative block h-screen"
             id="home"
         >
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide flex items-center overflow-hidden">
-                            <div class="slide-inner slide-bg-image flex items-center bg-center;" data-background="assets/images/corporate/1.jpg">
+                        <div
+                            class="slide-inner slide-bg-image flex items-center bg-center;"
+                            data-background="assets/images/corporate/1.jpg"
+                        >
                             <div class="absolute inset-0 bg-black/70"></div>
                             <div class="container">
                                 <div class="grid grid-cols-1">
@@ -18,9 +21,9 @@
 
                                         <div class="mt-6">
                                             <a
-                                                href="/?a=signup"
+                                                href="/?a=account"
                                                 class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md"
-                                            >Register</a>
+                                            >Get Started</a>
                                         </div>
                                     </div>
                                 </div>
@@ -31,7 +34,10 @@
                     </div> <!-- end swiper-slide -->
 
                     <div class="swiper-slide flex items-center overflow-hidden">
-                            <div class="slide-inner slide-bg-image flex items-center bg-center;" data-background="assets/images/corporate/2.jpg">
+                        <div
+                            class="slide-inner slide-bg-image flex items-center bg-center;"
+                            data-background="assets/images/corporate/2.jpg"
+                        >
                             <div class="absolute inset-0 bg-black/70"></div>
                             <div class="container">
                                 <div class="grid grid-cols-1">
@@ -43,9 +49,9 @@
 
                                         <div class="mt-6">
                                             <a
-                                                href="?a=login"
+                                                href="#"
                                                 class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md"
-                                            >Login</a>
+                                            >Get Started</a>
                                         </div>
                                     </div>
                                 </div>
