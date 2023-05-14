@@ -1,5 +1,7 @@
 {extends file="auth/layout.tpl"}
 
+{block name=section}
+
 {if $found_records == 2}
     <div class="card card-bordered">
         <div class="card-inner card-inner-lg">
@@ -90,3 +92,4 @@ name=forgotform>
     </div>
 </form>
 {/if}
+{/block}
