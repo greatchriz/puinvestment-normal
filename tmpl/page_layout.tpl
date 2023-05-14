@@ -237,13 +237,7 @@
                     <div class="container text-center">
                         <div class="grid md:grid-cols-2 items-center">
                             <div class="ltr:md:text-left rtl:md:text-right text-center">
-                                <p class="mb-0">© <script>
-                                        document.write(new Date().getFullYear())
-                                    </script> Techwind. Design with <i class="mdi mdi-heart text-red-600"></i> by <a
-                                        href="https://shreethemes.in/"
-                                        target="_blank"
-                                        class="text-reset"
-                                    >Shreethemes</a>.</p>
+                                <p class="mb-0"> 2023 © Puinvestment.org All Rights Reserved.</p>
                             </div>
     
                             <ul class="list-none ltr:md:text-right rtl:md:text-left text-center mt-6 md:mt-0">
