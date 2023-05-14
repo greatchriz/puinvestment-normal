@@ -2,9 +2,9 @@
         <section class="swiper-slider-hero relative block h-screen" id="home">
             <div class="swiper-container">
                 <div class="swiper-wrapper">
-                    {include file="sections/home/hero/hero.tpl" bgImage="assets/images/corporate/1.jpg" h1Text="Discover the world of <br> business" pText="Launch your campaign and benefit from our expertise on designing and managing conversion centered Tailwind CSS v3.x html page." buttonText="Login" buttonLink="?a=login" }
+                    {include file="sections/home/hero/hero.tpl" bgImage="assets/images/corporate/1.jpg" h1Text="Invest in Crypto with  <br> Confidence" pText="Whether you're a seasoned investor or just getting started, we're here to help you achieve your financial goals. Sign up today and start investing with confidence!" buttonText="Login" buttonLink="?a=login" }
 
-                    {include file="sections/home/hero/hero.tpl" bgImage="assets/images/corporate/2.jpg" h1Text="Meet our brand <br> new solution" pText="Launch your campaign and benefit from our expertise on designing and managing conversion centered Tailwind CSS v3.x html page" buttonText="Sign Up" buttonLink="?a=signup" }
+                    {include file="sections/home/hero/hero.tpl" bgImage="assets/images/corporate/2.jpg" h1Text="Crypto experts Traders <br>trading for you." pText="Our team of experienced financial experts has developed a range of investment solutions tailored to meet the needs of both seasoned investors and newcomers to the crypto world." buttonText="Sign Up" buttonLink="?a=signup" }
     
                     {* <div class="swiper-slide flex items-center overflow-hidden">
                         <div class="slide-inner slide-bg-image flex items-center bg-center;" data-background="assets/images/corporate/2.jpg">
