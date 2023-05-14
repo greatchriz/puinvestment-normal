@@ -16,10 +16,11 @@
                                           href="page-services.html"
                                           class="title h5 text-lg font-medium hover:text-indigo-600"
                                       >Multiple cryptocurrency exchanges</a>
-                                      <p class="text-slate-400 mt-3">We offer access to multiple cryptocurrency exchanges to provide users with a wide range of trading options and liquidity.
+                                      <p class="text-slate-400 mt-3">We offer access to multiple cryptocurrency
+                                          exchanges to provide users with a wide range of trading options and liquidity.
                                       </p>
 
-                                      
+
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -36,11 +37,13 @@
                                           href="#"
                                           class="title h5 text-lg font-medium hover:text-indigo-600"
                                       >Advanced charting and technical analysis tools</a>
-                                      <p class="text-slate-400 mt-3">Puinvestsment could provide advanced charting tools with technical analysis indicators to help traders make informed investment decisions.
+                                      <p class="text-slate-400 mt-3">Puinvestsment could provide advanced charting tools
+                                          with technical analysis indicators to help traders make informed investment
+                                          decisions.
 
                                       </p>
 
-                                      
+
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -57,11 +60,12 @@
                                           href="page-services.html"
                                           class="title h5 text-lg font-medium hover:text-indigo-600"
                                       >Secure wallet integration</a>
-                                      <p class="text-slate-400 mt-3">Puinvestsment could integrate secure wallets to allow users to store their cryptocurrencies safely and securely.
+                                      <p class="text-slate-400 mt-3">Puinvestsment could integrate secure wallets to
+                                          allow users to store their cryptocurrencies safely and securely.
 
                                       </p>
 
-                                      
+
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -78,18 +82,20 @@
                                           href="page-services.html"
                                           class="title h5 text-lg font-medium hover:text-indigo-600"
                                       >Margin trading</a>
-                                      <p class="text-slate-400 mt-3">Margin trading could be offered to allow traders to borrow funds to increase their buying power and potentially increase their profits.
+                                      <p class="text-slate-400 mt-3">Margin trading could be offered to allow traders to
+                                          borrow funds to increase their buying power and potentially increase their
+                                          profits.
 
                                       </p>
 
-                                      
+
                                   </div>
                               </div>
                               <!--end feature content-->
 
 
 
-                            
+
 
                               <div
                                   class="group p-6 md:px-4 rounded-lg shadow dark:shadow-gray-800 hover:shadow-md dark:hover:shadow-gray-700 bg-white dark:bg-slate-900 text-center transition-all duration-500 ease-in-out">
@@ -103,12 +109,13 @@
                                           href="page-services.html"
                                           class="title h5 text-lg font-medium hover:text-indigo-600"
                                       >Multiple Social trading</a>
-                                      <p class="text-slate-400 mt-3">Puinvestsment offer a social trading feature that allows users to follow and copy the trades of successful traders.
+                                      <p class="text-slate-400 mt-3">Puinvestsment offer a social trading feature that
+                                          allows users to follow and copy the trades of successful traders.
 
 
                                       </p>
 
-                                      
+
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -125,13 +132,14 @@
                                           href="#"
                                           class="title h5 text-lg font-medium hover:text-indigo-600"
                                       >Automated trading</a>
-                                      <p class="text-slate-400 mt-3">Puinvestsment could provide users with the ability to automate their trading strategies with the use of bots and algorithms.
+                                      <p class="text-slate-400 mt-3">Puinvestsment could provide users with the ability
+                                          to automate their trading strategies with the use of bots and algorithms.
 
 
 
                                       </p>
 
-                                      
+
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -148,12 +156,15 @@
                                           href="page-services.html"
                                           class="title h5 text-lg font-medium hover:text-indigo-600"
                                       >News and Market Analysis</a>
-                                      <p class="text-slate-400 mt-3"> Staying up-to-date on the latest news and trends in the crypto market is important for making informed investment decisions. Puinvestsment provide users with access to market analysis, news updates, and expert insights.
+                                      <p class="text-slate-400 mt-3"> Staying up-to-date on the latest news and trends
+                                          in the crypto market is important for making informed investment decisions.
+                                          Puinvestsment provide users with access to market analysis, news updates, and
+                                          expert insights.
 
 
                                       </p>
 
-                                      
+
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -170,13 +181,14 @@
                                           href="page-services.html"
                                           class="title h5 text-lg font-medium hover:text-indigo-600"
                                       >Customer Support</a>
-                                      <p class="text-slate-400 mt-3">  Puinvestsment have a responsive customer support team that can help users with any issues or questions they may have.
+                                      <p class="text-slate-400 mt-3"> Puinvestsment have a responsive customer support
+                                          team that can help users with any issues or questions they may have.
 
 
 
                                       </p>
 
-                                      
+
                                   </div>
                               </div>
                               <!--end feature content-->
@@ -215,7 +227,16 @@
                           <div class="lg:ms-4">
                               <h4 class="mb-6 md:text-3xl text-2xl lg:leading-normal leading-normal font-medium">We are
                                   here to <br> Make Profit for you. </h4>
-                              <p class="text-slate-400 max-w-xl">Puinvestsment is a company that specializes in providing investment opportunities for individuals looking to earn through cryptocurrencies. With our expertise in the crypto market, they offer customized investment plans tailored to each client's needs and goals. Through our platform, customers can access a range of investment options, including bitcoin and other altcoins, and benefit from our research and analysis. Puinvestsment also provides education and support for customers, helping them navigate the complexities of the crypto market and make informed investment decisions. Overall, Puinvestsment is committed to helping their customers earn through crypto by providing access to innovative investment opportunities and expert guidance.</p>
+                              <p class="text-slate-400 max-w-xl">Puinvestsment is a company that specializes in
+                                  providing investment opportunities for individuals looking to earn through
+                                  cryptocurrencies. With our expertise in the crypto market, they offer customized
+                                  investment plans tailored to each client's needs and goals. Through our platform,
+                                  customers can access a range of investment options, including bitcoin and other
+                                  altcoins, and benefit from our research and analysis. Puinvestsment also provides
+                                  education and support for customers, helping them navigate the complexities of the
+                                  crypto market and make informed investment decisions. Overall, Puinvestsment is
+                                  committed to helping their customers earn through crypto by providing access to
+                                  innovative investment opportunities and expert guidance.</p>
                               <a
                                   href="/?a=account"
                                   class="btn bg-indigo-600 hover:bg-indigo-700 border-indigo-600 hover:border-indigo-700 text-white rounded-md mt-3"
@@ -228,5 +249,6 @@
               </div>
               <!--end container-->
           </section>
+
           <!--end section-->
           <!-- End Section-->

@@ -7,6 +7,31 @@
                                 {include file="sections/home/features/feature.tpl" icon="presentation-line" linkText="Multiple cryptocurrency exchanges" pText="We offer access to multiple cryptocurrency exchanges to provide users with a wide
                                 range of trading options and liquidity."}
 
+                                {include file="sections/home/features/feature.tpl" icon="bill" linkText="Advanced charting and technical analysis tools" pText="Puinvestsment could provide advanced charting tools
+                                with technical analysis indicators to help traders make informed investment
+                                decisions."}
+
+                                {include file="sections/home/features/feature.tpl" icon="money-withdrawal" linkText="Secure wallet integration" pText="Puinvestsment could integrate secure wallets to
+                                allow users to store their cryptocurrencies safely and securely."}
+
+                                {include file="sections/home/features/feature.tpl" icon="presentation-line" linkText="Margin trading" pText="Margin trading could be offered to allow traders to
+                                borrow funds to increase their buying power and potentially increase their
+                                profits."}
+
+                                {include file="sections/home/features/feature.tpl" icon="presentation-line" linkText="Multiple Social trading" pText="Puinvestsment offer a social trading feature that
+                                allows users to follow and copy the trades of successful traders."}
+
+                                {include file="sections/home/features/feature.tpl" icon="bill" linkText="Automated trading" pText="Puinvestsment could provide users with the ability
+                                to automate their trading strategies with the use of bots and algorithms."}
+
+                                {include file="sections/home/features/feature.tpl" icon="money-withdrawal" linkText="News and Market Analysis" pText="Staying up-to-date on the latest news and trends
+                                in the crypto market is important for making informed investment decisions.
+                                Puinvestsment provide users with access to market analysis, news updates, and
+                                expert insights."}
+
+                                {include file="sections/home/features/feature.tpl" icon="presentation-line" linkText="Customer Support" pText="Puinvestsment have a responsive customer support
+                                team that can help users with any issues or questions they may have."}
+
 
                                 
                           </div>
