@@ -155,19 +155,19 @@
             <div class="card-body">
                 <div id="DZ_W_Todo4" class="widget-media">
                     <ul class="timeline">
-                    <!--{section name=p loop=$ps}
+                    {section name=p loop=$ps}
                       {if $ps[p].balance > 0 and $ps[p].status == 1}
                         <li>
                             <div class="timeline-panel">
                                 <div class="form-check custom-checkbox mb-3 check-xs">
-                                    <input type="checkbox" name=type value="account_{$ps[p].id}" class="form-check-input"
+                                    <input type="radio" name=type value="account_{$ps[p].id}" class="form-check-input"
                                         id="account_{$ps[p].id}">
                                     <label class="form-check-label" for="account_{$ps[p].id}">Spend funds from the Account Balance {$ps[p].name}</label>
                                 </div>
                             </div>
                         </li>
                       {/if}
-                    {/section}-->
+                    {/section}
                     
                     
               
