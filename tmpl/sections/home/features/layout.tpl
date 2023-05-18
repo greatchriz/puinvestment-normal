@@ -42,19 +42,9 @@
                 <!--end container-->
                 <div class="container md:mt-24 mt-16">
                     <div class="grid md:grid-cols-12 grid-cols-1 items-center gap-[30px]">
-                        <div class="md:col-span-5">
-                            <div class="relative">
-                                <img
-                                    src="assets/images/company/about2.png"
-                                    class="mx-auto"
-                                    alt=""
-                                >
-                                
-                            </div>
-                        </div>
-                        <!--end col-->
+                       
   
-                        <div class="md:col-span-7">
+                        <div class="md:col-span-12">
                             <div class="lg:ms-4">
                                 <h4 class="mb-6 md:text-3xl text-2xl lg:leading-normal leading-normal font-medium">We are
                                     here to <br> Make Profit for you. </h4>
