@@ -43,7 +43,7 @@
                                 range of digital assets, as well as the tools and resources they needed to make informed
                                 investment decisions.</p>
 
-                            <p class="text-slate-400 mt-3">Our efforts paid off, and by 2017, we had become a trusted
+                            <p class="text-slate-400 mt-3">Our efforts paid off, and by 2020, we had become a trusted
                                 name in the digital asset market. That year, we launched our investment management
                                 services, which were designed to help our clients build diversified portfolios of
                                 digital assets that aligned with their investment goals and risk tolerance.</p>
