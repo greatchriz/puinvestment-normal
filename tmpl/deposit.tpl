@@ -78,6 +78,11 @@
                                 <strong>{$plans[plans].period} Profit (%)</strong>
                                 <span class="mb-0">{$plans[plans].plans[options].percent}</span>
                             </li>
+
+                            <li class="list-group-item d-flex px-0 justify-content-between">
+                              <strong>Duration</strong>
+                              <span class="mb-0">{$plans[plans].plans[options].description}</span>
+                          </li>
                             
                             <li class="list-group-item d-flex px-0 justify-content-between">
                                 <strong>Referral Bonus</strong>
