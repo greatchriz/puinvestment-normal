@@ -3,7 +3,7 @@
 {if $ok == 1}
 <h3>Please confirm your deposit:</h3><br><br>
 
-{$description}
+<p style="color: red;">{$description}</p>
 
 <br><br>
 
